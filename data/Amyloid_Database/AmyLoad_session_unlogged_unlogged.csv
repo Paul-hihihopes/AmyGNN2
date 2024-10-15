@@ -1,0 +1,1481 @@
+AMY1,T-Protein (Tau),K19,PGGGKVQIVYKPV,Yes
+AMY2,T-Protein (Tau),K19d,PGGGKVYKPV,No
+AMY3,T-Protein (Tau),Mut1,PGGGKNAEVYKPV,No
+AMY4,T-Protein (Tau),Mut2,PGGGKVQIVEKPV,No
+AMY5,T-Protein (Tau),K19Chym,QTAPVPMPDLKNVKSKIGSTENLKHQPGGGKVQIVY,No
+AMY6,T-Protein (Tau),K19Chym1,KPVDLSKVTSKCGSLGNIHHKPGGGQVEVKSEKLDF,No
+AMY7,T-Protein (Tau),K19Chym2,KDRVQSKIGSLDNITHVPGGGN,No
+AMY8,T-Protein (Tau),K19Gluc4,QTAPVPMPDLKNVKSKIGSTE,No
+AMY9,T-Protein (Tau),K19Gluc41,NLKHQPGGGKVQIVYKPVDLSKVTSKCGSLGNIHHKPGGGQVE,Yes
+AMY10,T-Protein (Tau),K19Gluc42,VKSE,No
+AMY11,T-Protein (Tau),K19Gluc43,KLDFKDRVQSKIGSLDNITHVPGGGN,No
+AMY12,T-Protein (Tau),K19Gluc78,QTAPVPMPD,No
+AMY13,T-Protein (Tau),K19Gluc781,LKNVKSKIGSTE,No
+AMY14,T-Protein (Tau),K19Gluc782,NLKHQPGGGKVQIVYKEVD,Yes
+AMY15,T-Protein (Tau),K19Gluc783,LSKVTSKCGSLGNIHHKPGGGQVE,No
+AMY16,T-Protein (Tau),K19Gluc784,VKSEKLDFKDRVQSKIGSLDNITHVPGGGN,No
+AMY17,T-Protein (Tau),PHF8,GKVQIVYK,Yes
+AMY18,T-Protein (Tau),PHF6,VQIVYK,Yes
+AMY19,T-Protein (Tau),V313-K321,VDLSKVTSK,No
+AMY20,T-Protein (Tau),V318-G335,VTSKCGSLGNIHHKPGGG,No
+AMY21,T-Protein (Tau),V335-E342,GQVEVSKE,No
+AMY22,Amyloid beta A4 peptide,Whole,DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV,Yes
+AMY23,Amyloid beta A4 peptide,HABP1,VPHQKLVFFAEDVGS,Yes
+AMY24,Amyloid beta A4 peptide,HABP2,VHPQKLVFFAEDVGS,Yes
+AMY25,Amyloid beta A4 peptide,HABP3,VHHPKLVFFAEDVGS,Yes
+AMY26,Amyloid beta A4 peptide,HABP4,VHHQPLVFFAEDVGS,Yes
+AMY27,Amyloid beta A4 peptide,HABP5,KKPVFFAED,No
+AMY28,Amyloid beta A4 peptide,HABP6,KKLPFFAED,No
+AMY29,Amyloid beta A4 peptide,HABP7,KKLVPFAED,No
+AMY30,Amyloid beta A4 peptide,HABP8,VHHQKLVPFAEDVGS,No
+AMY31,Amyloid beta A4 peptide,HABP9,KKLVFPAED,No
+AMY32,Amyloid beta A4 peptide,HABP10,KKLVFFPED,Yes
+AMY33,Amyloid beta A4 peptide,HABP11,VHHQEKLVFFAPDVGS,No
+AMY34,Amyloid beta A4 peptide,HABP12,VHHQEKLVFFAEPVGS,Yes
+AMY35,Amyloid beta A4 peptide,HABP13,VHHQEKLVFFAEDPGS,Yes
+AMY36,Amyloid beta A4 peptide,HABP14,VHHQEKLVFFAEDVPS,Yes
+AMY37,Amyloid beta A4 peptide,HABP15,KKLVFFAED,Yes
+AMY38,Amyloid beta A4 peptide,HABP16,VHHQKLVFFAEDVGS,Yes
+AMY39,Amyloid beta A4 peptide,AB1,KLVFF,No
+AMY40,Amyloid beta A4 peptide,AB2,QKLVFFA,No
+AMY41,Amyloid beta A4 peptide,AB3,HQKLVFFAE,No
+AMY42,Amyloid beta A4 peptide,AB4,HHQKLVFFAED,Yes
+AMY43,Amyloid beta A4 peptide,AB5,VHHQKLVFFAEDV,Yes
+AMY44,Amyloid beta A4 peptide,AB6,EVHHQKLVFFAEDVG,Yes
+AMY45,Amyloid beta A4 peptide,AB7,YEVHHQKLVFFAEDVGS,Yes
+AMY46,Amyloid beta A4 peptide,AB8,GYEVHHQKLVFFAEDVGSN,Yes
+AMY47,Amyloid beta A4 peptide,AB9,SGYEVHHQKLVFFAEDVGSNK,Yes
+AMY48,Amyloid beta A4 peptide,AB10,DSGYEVHHQKLVFFAEDVGSNKG,Yes
+AMY49,Amyloid beta A4 peptide,AB11,HDSGYEVHHQKLVFFAEDVGSNKGA,Yes
+AMY50,Amyloid beta A4 peptide,Untitled,GVVIA,Yes
+AMY51,Amyloid beta A4 peptide,Untitled,IIGLMV,Yes
+AMY52,Amyloid beta A4 peptide,Untitled,LVFFA,Yes
+AMY53,Alpha synuclein,NAC1-18,EQVTNVGGAVVTGVTAVA,Yes
+AMY54,Alpha synuclein,NAC1-18s,TVNGVGEVTATAVQGVAV,Yes
+AMY55,Alpha synuclein,NAC3-18,VTNVGGAVVTGVTAVA,Yes
+AMY56,Alpha synuclein,NAC1-13,EQVTNVGGAVVTG,Yes
+AMY57,Alpha synuclein,NAC6-14,VGGAVVTGV,Yes
+AMY58,Acyl Phosphatase,1-17,STAQSLKSVDYEVFGRV,No
+AMY59,Acyl Phosphatase,18-33,QGVSFRMYTEDEARKI,No
+AMY60,Acyl Phosphatase,34-53,GVVGWVKNTSKGTVTGQVQG,Yes
+AMY61,Acyl Phosphatase,54-68,PEDKVNSMKSWLSKV,No
+AMY62,Acyl Phosphatase,69-85,GSPSSRIDRTNFSNEKT,No
+AMY63,Acyl Phosphatase,86-98,ISKLEYSNFSVRY,Yes
+AMY64,b2-microglobulin,A,IQRTPKIQVYSRHPAE,No
+AMY65,b2-microglobulin,B,NGKSNFLNCYVSG,No
+AMY66,b2-microglobulin,C,FHPSDIEVDLLK,No
+AMY67,b2-microglobulin,D,NGERIEKVEHSDLSFSKD,No
+AMY68,b2-microglobulin,E,DWSFYLLYYTEFT,Yes
+AMY69,b2-microglobulin,E1,DWSFYLLYYTEFTPTGKDEYA,Yes
+AMY70,b2-microglobulin,F,PTGKDEYACRVNHVT,No
+AMY71,b2-microglobulin,G,LSQPKIVKWDRDM,No
+AMY72,b2-microglobulin,Untitled,NFLNCYVSGFHPSDIEVDLL,Yes
+AMY73,b2-microglobulin,Untitled,DWSFYLLYYTEFTPTGKDEY,Yes
+AMY74,434 Cro repressor,1Cro,MQTLSERLKKRRIALKY,No
+AMY75,435 Cro repressor,2Cro,YKMTQTELATKAGVK,No
+AMY76,436 Cro repressor,3Cro,YKQQSIQLIEAGVTKR,No
+AMY77,437 Cro repressor,4Cro,TKRPRFLYEIAMALNSD,Yes
+AMY78,438 Cro repressor,5Cro,AMALNCDPVWLQYGTKRGKA,No
+AMY79,Myoglobin (Sperm whale),A-Helix,VLSEGEWQLVLHVWAKVEA,Yes
+AMY80,Myoglobin (Sperm whale),AB-Domain,EGEWQLVLHVWAKVEADVAGHGQDILIRLFK,Yes
+AMY81,Myoglobin (Sperm whale),B-Helix,DVAGHGQDILIRLFKS,Yes
+AMY82,Myoglobin (Sperm whale),BC-Turn,KSHPET,No
+AMY83,Myoglobin (Sperm whale),CCD-Domai,HPETLEKFDRFKHLK,No
+AMY84,Myoglobin (Sperm whale),D-Helix,TEAEMKA,No
+AMY85,Myoglobin (Sperm whale),E-Helix,SEDLKKHGVTVLTALGAILK,No
+AMY86,Myoglobin (Sperm whale),EF-Turn,KKGHHEAE,No
+AMY87,Myoglobin (Sperm whale),F-helix,ELKPLAQSHA,No
+AMY88,Myoglobin (Sperm whale),FG-Turn,ATKHKIP,No
+AMY89,Myohemerithrin,N-terminal,GWEIPEPYVWDESFRVFY,No
+AMY90,Myohemerithrin,C-terminal,GTDFKYKGKL,No
+AMY91,Myohemerithrin,A helix,YEQLDEEHKKIFKGIFDCIRD,No
+AMY92,Myohemerithrin,AB loop,RDNSA,No
+AMY93,Myohemerithrin,B helix,SAPNLATLVKVTTNHFTHEEAMMD,Yes
+AMY94,Myohemerithrin,BC loop,DAAKYSEV,No
+AMY95,Myohemerithrin,C helix,EVVPHKKMHKDFLEKIGGL,Yes
+AMY96,Myohemerithrin,CD loop,GLSAPVD,No
+AMY97,Myohemerithrin,D helix,AKNVDYCKEWLVNHIK,No
+AMY98,Plastocyanin (French bean),Pc-1,LEVLLGSG,No
+AMY99,Plastocyanin (French bean),Pc-2,LEVLLGSGDGSLVFV,Yes
+AMY100,Plastocyanin (French bean),Pc-2a,SGDGSL,No
+AMY101,Plastocyanin (French bean),Pc-3,SLVFVPSEFS,No
+AMY102,Plastocyanin (French bean),Pc-4,SEFSV,No
+AMY103,Plastocyanin (French bean),Pc-5,SEFSVPSGEK,No
+AMY104,Plastocyanin (French bean),Pc-6,KIVFKNNA,No
+AMY105,Plastocyanin (French bean),Pc-6a,GEKIVFKNNAGFPHNVVFDE,Yes
+AMY106,Plastocyanin (French bean),Pc-7,KIVFKNNAGFPH,No
+AMY107,Plastocyanin (French bean),Pc-8,KNNAGFPHNV,No
+AMY108,Plastocyanin (French bean),Pc-9,PHNVVFDEDDEIP,No
+AMY109,Plastocyanin (French bean),Pc-10,IPAGVDAVKISM,Yes
+AMY110,Plastocyanin (French bean),Pc-10a,EIPAGV,No
+AMY111,Plastocyanin (French bean),Pc-10b,DAVKIS,No
+AMY112,Plastocyanin (French bean),Pc-11,MPEEELL,No
+AMY113,Plastocyanin (French bean),Pc-12,MPEEELLNAPGETYVVTL,Yes
+AMY114,Plastocyanin (French bean),Pc-13,ELLNAPGETY,No
+AMY115,Plastocyanin (French bean),Pc-13a,NAPGETY,No
+AMY116,Plastocyanin (French bean),Pc-13b,APGET,No
+AMY117,Plastocyanin (French bean),Pc-14,GETYVVTL,Yes
+AMY118,Plastocyanin (French bean),Pc-14a,ETYVVT,No
+AMY119,Plastocyanin (French bean),Pc-15,VTLDTKGTY,No
+AMY120,Plastocyanin (French bean),Pc-16,GTYSFYT,Yes
+AMY121,Plastocyanin (French bean),Pc-16a,TYSFYC,No
+AMY122,Plastocyanin (French bean),Pc-17,YTSPHQGAGMV,No
+AMY123,Plastocyanin (French bean),Pc-18,MVGKVTVN,No
+AMY124,Plastocyanin (French bean),Pc-19,GTVSFVTSPHQGAGMVGKVTVN,Yes
+AMY125,Bovine Pancreatic Trypsin Inhibitor (BPTI),P1-15,RPDFSLEPPYTGPSK,No
+AMY126,Bovine Pancreatic Trypsin Inhibitor (BPTI),P29-44,LSQTFVYGGSRAKRNN,Yes
+AMY127,Bovine Pancreatic Trypsin Inhibitor (BPTI),P13-21,PSKARIIRY,No
+AMY128,Bovine Pancreatic Trypsin Inhibitor (BPTI),P41-51,KRNNFKSAEDS,No
+AMY129,Bovine Pancreatic Trypsin Inhibitor (BPTI),P16-28,ARIIRYFYNAKAG,No
+AMY130,Bovine Pancreatic Trypsin Inhibitor (BPTI),P24-32,NAKAGLSQT,No
+AMY131,N-terminal domain of Ribosomal protein L9,Beta 1,MKVIFLKDVKG,Yes
+AMY132,N-terminal domain of Ribosomal protein L9,Beta 2,KGKKGEIKNVAD,No
+AMY133,N-terminal domain of Ribosomal protein L9,Alpha 1,GYANNFLFKQG,Yes
+AMY134,N-terminal domain of Ribosomal protein L9,Beta 3,LAIEATPA,No
+AMY135,N-terminal domain of Ribosomal protein L9,Alpha 2,TPANLKALEAQKQKEQR,No
+AMY136,Glutathione S Transeferase P domain II (Glutex),Alpha 4,DQKEAALVDMVNDGVEDLRCKYATLIYT,No
+AMY137,Glutathione S Transeferase P domain II (Glutex),Alpha 5,YEAGKEKYVKELPEHLKPFETLLSQ,No
+AMY138,Glutathione S Transeferase P domain II (Glutex),Alpha 6,QISFADYNLLDLLRIHQVLN,Yes
+AMY139,Glutathione S Transeferase P domain II (Glutex),Alpha 7,PLLSAYVARLSA,No
+AMY140,Glutathione S Transeferase P domain II (Glutex),Alpha 8,PKIKAFLA,No
+AMY141,Spectrin SH3,M2,AYVKKLDSGTGKELVLAL,No
+AMY142,Spectrin SH3,M4,YDYQEKSPREVTMKKGD,No
+AMY143,Spectrin SH3,M8,DILTLLNSTNKDWWKVEVND,Yes
+AMY144,Spectrin SH3,MC,GGKDWWKVGG,No
+AMY145,Spectrin SH3,M6,DWWKVEVNDRQGFVPA,Yes
+AMY146,Spectrin SH3,M68,DILTLLNSTNKDWWKVEVNDRQGFVPA,Yes
+AMY147,Ada-2h,H1 Wt,VPSNEEQIKNLLQLEAQEHLQY,No
+AMY148,Ada-2h,H1 Mt,VPSNEEQIKKLLELEAKKHLQY,No
+AMY149,Ada-2h,H2 WT,FVNVQAVKVFLESQGIAY,Yes
+AMY150,Ada-2h,H2 Mt,FVNVEAVKAFLEAHGIAY,Yes
+AMY151,Ara,Ara1,AVGKSNLLSRYARNEFSA,No
+AMY152,Ara,Ara2,RFRAVTSAYYRGAVG,No
+AMY153,Ara,Ara3,TRRTTFESVGRWLDELKIHSD,No
+AMY154,Ara,Ara4,AVSVEEGKALAEEEGLF,No
+AMY155,Ara,Ara5,STNVKTAFEMVILDIYNNV,Yes
+AMY156,Com-A,ComA1,DHPAVMEGTKTILETDSNLS,No
+AMY157,Com-A,ComA2,EPSEQFIKQHDFSSY,No
+AMY158,Com-A,ComA3,VNGMELSKQILQENPH,No
+AMY159,Com-A,ComA4,EVEDYFEEAIRAGLH,No
+AMY160,Com-A,ComA5,TESKEKITQYIYHVLNGEIL,Yes
+AMY161,Che Y,Che Y1,DFSTMRRIVRNLLKELGYN,No
+AMY162,Che Y,Che Y2,EDGVDALNKLQAGGY,No
+AMY163,Che Y,Che Y3,MDGLELLKTIRADSAY,No
+AMY164,Che Y,Che Y4,AKKENIIAAAQAGASGY,Yes
+AMY165,Che Y,Che Y5,PFTAATLEEKLNKIFEKLGMY,Yes
+AMY166,Flavodoxin,FXN1,GTGNTEKMAELIAKGIIESGKDY,No
+AMY167,Flavodoxin,FXN3,EESEFEPFIEEISTKISY,No
+AMY168,Flavodoxin,FXN4,GDGKWMRDFEQRMNGYGSV,No
+AMY169,Flavodoxin,FXN5,EPDEAEQDSIEFGKKIANIY,No
+AMY170,P21-ras,P21A,GVGKSALTIQLIQNHFVY,Yes
+AMY171,P21-ras,P21B,EYSAMRDQYMRTGEG,No
+AMY172,P21-ras,P21C,INNTKSFEDIHQYREQIKRVKDS,No
+AMY173,P21-ras,P21D,ARTVESRQAQDLARSYGIP,No
+AMY174,P21-ras,P21E,RQGVEDAFYTLVREIRQHK,Yes
+AMY175,PL B1 protein,PL B1 95-114 pH 4.1,VTIKANLIFANGFTQTAEFKG,Yes
+AMY176,PL B1 protein,PL B1 114-138 pH 2.4,KGTFEKATSEAYAYADTLKKDNGEY,Yes
+AMY177,PL B1 protein,PL B1 136-155D pH 6.1,GEYTVDVADKGYTLNIKFAGD,Yes
+AMY178,Protein G,ProteinG2-19,TYKLINGKTLKGETTTEA,No
+AMY179,Prion protein (human),1-10,QGGGTHSQWN,No
+AMY180,Prion protein (human),6-15,HSQWNKPSKP,No
+AMY181,Prion protein (human),11-20,KPSKPKTNMK,No
+AMY182,Prion protein (human),16-25,KTNMKHMAGA,No
+AMY183,Prion protein (human),21-30,HMAGAAAAGA,No
+AMY184,Prion protein (human),26-35,AAAGAVVGGL,No
+AMY185,Prion protein (human),31-40,VVGGLGGYML,No
+AMY186,Prion protein (human),36-45,GGYMLGSAMS,No
+AMY187,Prion protein (human),41-50,GSAMSRPIIH,No
+AMY188,Prion protein (human),51-60,FGSDYEDRYY,No
+AMY189,Prion protein (human),56-65,EDRYYRENMH,No
+AMY190,Prion protein (human),61-70,RENMHRYPNQ,No
+AMY191,Prion protein (human),66-75,RYPNQVYYRP,No
+AMY192,Prion protein (human),71-80,VYYRPMDEYS,No
+AMY193,Prion protein (human),76-85,MDEYSNQNNF,No
+AMY194,Prion protein (human),81-90,NQNNFVHDCV,No
+AMY195,Prion protein (human),86-95,VHDCVNITIK,Yes
+AMY196,Prion protein (human),91-100,NITIKQHTVT,No
+AMY197,Prion protein (human),96-105,QHTVTTTTKG,No
+AMY198,Prion protein (human),101-110,TTTKGENFTE,No
+AMY199,Prion protein (human),106-115,ENFTETDVKM,No
+AMY200,Prion protein (human),111-120,TDVKMMERVV,No
+AMY201,Prion protein (human),116-125,MERVVEQMCI,No
+AMY202,Prion protein (human),121-130,EQMCITQYER,No
+AMY203,Prion protein (human),126-135,TQYERESQAY,No
+AMY204,Prion protein (human),131-140,ESQAYYQRGS,No
+AMY205,Prion protein (human),136-145,YQRGSSMVLF,No
+AMY206,Prion protein (human),141-150,SMVLFSSPPV,Yes
+AMY207,Prion protein (human),146-155,SSPPVILLIS,Yes
+AMY208,Prion protein (human),151-160,ILLISFLIFL,Yes
+AMY209,Prion protein (human),156-163,FLIFLIVG,Yes
+AMY210,Lysozyme (human),5-14,RCELARTLKR,Yes
+AMY211,Lysozyme (human),10-19,RTLKRLGMDG,No
+AMY212,Lysozyme (human),15-24,LGMDGYRGIS,No
+AMY213,Lysozyme (human),20-29,YRGISLANWM,No
+AMY214,Lysozyme (human),25-34,LANWMCLAKW,Yes
+AMY215,Lysozyme (human),30-39,CLAKWESGYN,No
+AMY216,Lysozyme (human),35-44,ESGYNTRATN,No
+AMY217,Lysozyme (human),40-49,TRATNYNAGD,No
+AMY218,Lysozyme (human),45-54,YNAGDRSTDY,No
+AMY219,Lysozyme (human),50-59,RSTDYGIFQI,No
+AMY220,Lysozyme (human),55-64,GIFQINSRYW,No
+AMY221,Lysozyme (human),60-69,NSRYWCNDGK,No
+AMY222,Lysozyme (human),65-74,CNDGKTPGAV,No
+AMY223,Lysozyme (human),70-79,TPGAVNACHL,No
+AMY224,Lysozyme (human),75-84,NACHLSCSAL,No
+AMY225,Lysozyme (human),80-89,SCSALLQDNI,No
+AMY226,Lysozyme (human),85-94,LQDNIADAVA,No
+AMY227,Lysozyme (human),90-99,ADAVACAKRV,No
+AMY228,Lysozyme (human),95-104,CAKRVVRDPQ,No
+AMY229,Lysozyme (human),100-109,VRDPQGIRAW,No
+AMY230,Lysozyme (human),105-114,GIRAWVAWRN,No
+AMY231,Lysozyme (human),110-119,VAWRNRCQNR,No
+AMY232,Lysozyme (human),115-124,RCQNRDVRQY,No
+AMY233,Lysozyme (human),120-129,DVRQYVQGCG,No
+AMY234,b2-microglobulin,4-13,RTPKIQVYSR,No
+AMY235,b2-microglobulin,9-18,QVYSRHPAEN,No
+AMY236,b2-microglobulin,14-23,HPAENGKSNF,No
+AMY237,b2-microglobulin,24-33,LNCYVSGFHP,No
+AMY238,b2-microglobulin,29-38,SGFHPSDIEV,No
+AMY239,b2-microglobulin,34-43,SDIEVDLLKN,No
+AMY240,b2-microglobulin,39-48,DLLKNGERIE,No
+AMY241,b2-microglobulin,44-53,GERIEKVEHS,No
+AMY242,b2-microglobulin,49-58,KVEHSDLSFS,No
+AMY243,b2-microglobulin,54-63,DLSFSKDWSF,Yes
+AMY244,b2-microglobulin,59-68,KDWSFYLLYY,Yes
+AMY245,b2-microglobulin,64-73,YLLYYTEFTP,Yes
+AMY246,b2-microglobulin,69-78,TEFTPTEKDE,Yes
+AMY247,b2-microglobulin,74-83,TEKDEYACRV,No
+AMY248,b2-microglobulin,79-88,YACRVNHVTL,No
+AMY249,b2-microglobulin,84-93,NHVTLSQPKI,No
+AMY250,De novo,Untitled,YTVIIE,Yes
+AMY251,De novo,Untitled,WTVIIE,Yes
+AMY252,De novo,Untitled,VTVIIE,Yes
+AMY253,De novo,Untitled,TTVIIE,Yes
+AMY254,De novo,Untitled,SYVIIE,Yes
+AMY255,De novo,Untitled,SVVIIE,Yes
+AMY256,De novo,Untitled,STVYIE,Yes
+AMY257,De novo,Untitled,STVWIE,Yes
+AMY258,De novo,Untitled,STVTIE,Yes
+AMY259,De novo,Untitled,STVNIE,Yes
+AMY260,De novo,Untitled,STVLIE,Yes
+AMY261,De novo,Untitled,STVIYE,Yes
+AMY262,De novo,Untitled,STVIIY,Yes
+AMY263,De novo,Untitled,STVIIW,Yes
+AMY264,De novo,Untitled,STVIIV,Yes
+AMY265,De novo,Untitled,STVIIT,Yes
+AMY266,De novo,Untitled,STVIIS,Yes
+AMY267,De novo,Untitled,STVIIQ,Yes
+AMY268,De novo,Untitled,STVIIN,Yes
+AMY269,De novo,Untitled,STVIIM,Yes
+AMY270,De novo,Untitled,STVIIL,Yes
+AMY271,De novo,Untitled,STVIII,Yes
+AMY272,De novo,Untitled,STVIIF,Yes
+AMY273,De novo,Untitled,STVIIE,Yes
+AMY274,De novo,Untitled,STVIID,Yes
+AMY275,De novo,Untitled,STVIIA,Yes
+AMY276,De novo,Untitled,STVIFE,Yes
+AMY277,De novo,Untitled,STVFIE,Yes
+AMY278,De novo,Untitled,STVEIE,Yes
+AMY279,De novo,Untitled,STSIIE,Yes
+AMY280,De novo,Untitled,STQIIE,Yes
+AMY281,De novo,Untitled,STNIIE,Yes
+AMY282,De novo,Untitled,STLIIE,Yes
+AMY283,De novo,Untitled,STFIIE,Yes
+AMY284,De novo,Untitled,STEIIE,Yes
+AMY285,De novo,Untitled,SSVIIE,Yes
+AMY286,De novo,Untitled,SQVIIE,Yes
+AMY287,De novo,Untitled,SNVIIE,Yes
+AMY288,De novo,Untitled,SMVIIE,Yes
+AMY289,De novo,Untitled,SLVIIE,Yes
+AMY290,De novo,Untitled,SIVIIE,Yes
+AMY291,De novo,Untitled,SGVIIE,Yes
+AMY292,De novo,Untitled,SFVIIE,Yes
+AMY293,De novo,Untitled,SEVIIE,Yes
+AMY294,De novo,Untitled,SDVIIE,Yes
+AMY295,De novo,Untitled,SAVIIE,Yes
+AMY296,De novo,Untitled,QTVIIE,Yes
+AMY297,De novo,Untitled,NTVIIE,Yes
+AMY298,De novo,Untitled,MTVIIE,Yes
+AMY299,De novo,Untitled,LTVIIE,Yes
+AMY300,De novo,Untitled,ITVIIE,Yes
+AMY301,De novo,Untitled,GTVIIE,Yes
+AMY302,De novo,Untitled,FTVIIE,Yes
+AMY303,De novo,Untitled,ETVIIE,Yes
+AMY304,De novo,Untitled,DTVIIE,Yes
+AMY305,De novo,Untitled,ATVIIE,Yes
+AMY306,De novo,Untitled,SWVIIE,No
+AMY307,De novo,Untitled,STYIIE,No
+AMY308,De novo,Untitled,STVVIE,No
+AMY309,De novo,Untitled,STVSIE,No
+AMY310,De novo,Untitled,STVQIE,No
+AMY311,De novo,Untitled,STVPIE,No
+AMY312,De novo,Untitled,STVMIE,No
+AMY313,De novo,Untitled,STVIWE,No
+AMY314,De novo,Untitled,STVIVE,No
+AMY315,De novo,Untitled,STVITE,No
+AMY316,De novo,Untitled,STVISE,No
+AMY317,De novo,Untitled,STVIQE,No
+AMY318,De novo,Untitled,STVIPE,No
+AMY319,De novo,Untitled,STVINE,No
+AMY320,De novo,Untitled,STVIME,No
+AMY321,De novo,Untitled,STVILE,No
+AMY322,De novo,Untitled,STVIIP,No
+AMY323,De novo,Untitled,STVIGE,No
+AMY324,De novo,Untitled,STVIEE,No
+AMY325,De novo,Untitled,STVIDE,No
+AMY326,De novo,Untitled,STVIAE,No
+AMY327,De novo,Untitled,STVGIE,No
+AMY328,De novo,Untitled,STVDIE,No
+AMY329,De novo,Untitled,STVAIE,No
+AMY330,De novo,Untitled,STTIIE,No
+AMY331,De novo,Untitled,STPIIE,No
+AMY332,De novo,Untitled,STMIIE,No
+AMY333,De novo,Untitled,STIIIE,No
+AMY334,De novo,Untitled,STGIIE,No
+AMY335,De novo,Untitled,STDIIE,No
+AMY336,De novo,Untitled,STAIIE,No
+AMY337,De novo,Untitled,SPVIIE,No
+AMY338,De novo,Untitled,PTVIIE,No
+AMY339,De novo,Untitled,KTVLIE,No
+AMY340,De novo,Untitled,KTVIYE,No
+AMY341,De novo,Untitled,KTVIVE,No
+AMY342,De novo,Untitled,KTVIIT,No
+AMY343,De novo,Untitled,KTVIIE,No
+AMY344,Amylin (Islet amyloid polypeptide),Untitled,NFGAIL,Yes
+AMY345,Amylin (Islet amyloid polypeptide),Untitled,FLVHSS,Yes
+AMY346,Amylin (Islet amyloid polypeptide),Untitled,NLGPVL,No
+AMY347,Amylin (Islet amyloid polypeptide),Untitled,LIAGFN,No
+AMY348,b2-microglobulin,Untitled,NHVTLS,Yes
+AMY349,b2-microglobulin,Untitled,LLYYTE,Yes
+AMY350,b2-microglobulin,Untitled,KIVKWD,Yes
+AMY351,b2-microglobulin,Untitled,KDWSFY,Yes
+AMY352,b2-microglobulin,Untitled,FYLLYY,Yes
+AMY353,b2-microglobulin,Untitled,YYTEFT,No
+AMY354,b2-microglobulin,Untitled,YVSGFH,No
+AMY355,b2-microglobulin,Untitled,WSFYLL,No
+AMY356,b2-microglobulin,Untitled,VYSRHP,No
+AMY357,b2-microglobulin,Untitled,VTLSQP,No
+AMY358,b2-microglobulin,Untitled,VKWDRD,No
+AMY359,b2-microglobulin,Untitled,TEFTPT,No
+AMY360,b2-microglobulin,Untitled,SRHPAE,No
+AMY361,b2-microglobulin,Untitled,SGFHPS,No
+AMY362,b2-microglobulin,Untitled,SDLSFS,No
+AMY363,b2-microglobulin,Untitled,RVNHVT,No
+AMY364,b2-microglobulin,Untitled,RTPKIQ,No
+AMY365,b2-microglobulin,Untitled,QPKIVK,No
+AMY366,b2-microglobulin,Untitled,PTEKDE,No
+AMY367,b2-microglobulin,Untitled,PSDIEV,No
+AMY368,b2-microglobulin,Untitled,PKIQVY,No
+AMY369,b2-microglobulin,Untitled,NGKSNF,No
+AMY370,b2-microglobulin,Untitled,NGERIE,No
+AMY371,b2-microglobulin,Untitled,LSQPKI,No
+AMY372,b2-microglobulin,Untitled,LSFSKD,No
+AMY373,b2-microglobulin,Untitled,LKNGER,No
+AMY374,b2-microglobulin,Untitled,KWDRDM,No
+AMY375,b2-microglobulin,Untitled,KVEHSD,No
+AMY376,b2-microglobulin,Untitled,KSNFLN,No
+AMY377,b2-microglobulin,Untitled,IQVYSR,No
+AMY378,b2-microglobulin,Untitled,IQRTPK,No
+AMY379,b2-microglobulin,Untitled,IEKVEH,No
+AMY380,b2-microglobulin,Untitled,HPAENG,No
+AMY381,b2-microglobulin,Untitled,FTPTEK,No
+AMY382,b2-microglobulin,Untitled,FSKDWS,No
+AMY383,b2-microglobulin,Untitled,FHPSDI,No
+AMY384,b2-microglobulin,Untitled,EVDLLK,No
+AMY385,b2-microglobulin,Untitled,ERIEKV,No
+AMY386,b2-microglobulin,Untitled,EKDEYA,No
+AMY387,b2-microglobulin,Untitled,EHSDLS,No
+AMY388,b2-microglobulin,Untitled,DLLKNG,No
+AMY389,b2-microglobulin,Untitled,DIEVDL,No
+AMY390,b2-microglobulin,Untitled,AENGKS,No
+AMY391,Insulin,Untitled,VEALYL,Yes
+AMY392,Insulin,Untitled,LYQLEN,Yes
+AMY393,Insulin,Untitled,LVEALY,Yes
+AMY394,Insulin,Untitled,YQLENY,No
+AMY395,Insulin,Untitled,SLYQLE,No
+AMY396,Insulin,Untitled,SHLVEA,No
+AMY397,Insulin,Untitled,RGFFYT,No
+AMY398,Insulin,Untitled,HLVEAL,No
+AMY399,Insulin,Untitled,GSHLVE,No
+AMY400,Insulin,Untitled,GFFYTP,No
+AMY401,Insulin,Untitled,GERGFF,No
+AMY402,Insulin,Untitled,FYTPKT,No
+AMY403,Insulin,Untitled,FVNQHL,No
+AMY404,Insulin,Untitled,FFYTPK,No
+AMY405,Insulin,Untitled,ERGFFY,No
+AMY406,Insulin,Untitled,EALYLV,No
+AMY407,b2-microglobulin,Untitled,SNFLNCYVSGFHPSDIEVDLLK,Yes
+AMY408,b2-microglobulin,Untitled,NHVTLSQ,Yes
+AMY409,Amylin (Islet amyloid polypeptide),Untitled,NFGAILSS,Yes
+AMY410,Amylin (Islet amyloid polypeptide),Untitled,AFGAILSS,Yes
+AMY411,Amylin (Islet amyloid polypeptide),Untitled,NFAAILSS,Yes
+AMY412,Amylin (Islet amyloid polypeptide),Untitled,NFGAALSS,Yes
+AMY413,Amylin (Islet amyloid polypeptide),Untitled,NFGAIASS,Yes
+AMY414,Amylin (Islet amyloid polypeptide),Untitled,TNVGSNTY,Yes
+AMY415,Amylin (Islet amyloid polypeptide),Untitled,QRLANFLVH,Yes
+AMY416,Amylin (Islet amyloid polypeptide),Untitled,SNNFGAIL,Yes
+AMY417,Amylin (Islet amyloid polypeptide),Untitled,NFLVHSSNN,Yes
+AMY418,Phage,Untitled,KPFTARFEGRIFSRSDELRALITEITGE,Yes
+AMY419,Phage,Untitled,KPFLARVEGRIFSRSDELRAYITAYTGE,Yes
+AMY420,Phage,Untitled,KPFTARISGRLFSRSDELKTIIATITGE,Yes
+AMY421,Phage,Untitled,KPYIARFEGRLFSRSDELRAVIEAHTGE,Yes
+AMY422,Phage,Untitled,KPFIARFEGRLFSRSDELKAIIKELTGE,Yes
+AMY423,Phage,Untitled,KPFLARFRGRIFSRSDELRTLIAAFTGE,Yes
+AMY424,Amyloid beta A4 peptide,Untitled,DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVVIA,Yes
+AMY425,Alpha synuclein,Untitled,VTGVTAVQKTV,Yes
+AMY426,TTR,Untitled,CPLMVKVLDAV,Yes
+AMY428,S6-mutant,Untitled,RVEKVAILGLMVLA,Yes
+AMY429,Gelsolin,Untitled,SFNNGDCFILD,Yes
+AMY430,Lactoferrin,Untitled,NAGDVAFV,Yes
+AMY431,Lactadherin,Medin,NFGSVQFV,Yes
+AMY432,SerumA(48),Untitled,SFFSFLGEAFD,Yes
+AMY433,Prion protein,Untitled,DCVNITIKQHTVTT,Yes
+AMY434,Prion protein,Untitled,DIKIMERVVEQMCTTQY,Yes
+AMY435,Prion protein,Untitled,AGAAAAGAVVGGLGG,Yes
+AMY436,Prion protein,Untitled,MKHMAGAAAAGAVV,Yes
+AMY437,Sup35,75-83,PQGGYQQYN,Yes
+AMY438,Sup35,7-13,GNNQQNY,Yes
+AMY439,AChe,Untitled,AEFHRWSSYMVYWK,Yes
+AMY440,De novo,Untitled,VTVKVNAVKVTV,Yes
+AMY441,Ribonuclease A,Untitled,KETAAAKFERQHMDSSTSAA,Yes
+AMY442,Myoglobin (horse),Untitled,IKYLEFISQAIIHVLHSR,Yes
+AMY443,a-tubulin,Untitled,MLSNTTAIAEAWARL,Yes
+AMY444,b-tubulin,Untitled,GYLTVAAVFR,Yes
+AMY445,Chorion A,Untitled,SYGGEGIGNVAVAGELPVAGKTAVAGRVPIIGAVGFGGPAGAAGAVSIAGR,Yes
+AMY446,Chorion B,Untitled,GNLPFLGTAGVAGEFPTA,Yes
+AMY447,Amphoterin,Atnp,MSSYAFFVQTCREEHK,Yes
+AMY448,Apoliprotein C-II,Untitled,TAAMSTYTGIFTDQVLSV,Yes
+AMY449,Exon 30 Tropoelastin,Untitled,GAAGLGGLGVGGLGVPGVGGLGGLV,Yes
+AMY450,Fibrinogen A a-chain,Untitled,FDTAST,Yes
+AMY451,Glycophorin A,Untitled,EPEITLIIFGVMAGVIGTILLISYGIRRL,Yes
+AMY452,Amylin (Islet amyloid polypeptide),Untitled,ATQRLANFLVHSS,Yes
+AMY453,Lysozyme (hen) (mutated),Untitled,GSTDYGILQINSRWWS,Yes
+AMY454,Lysozyme (hen) (mutated),Untitled,GSTDYGTLQINSRWWS,Yes
+AMY455,Lysozyme (hen),Untitled,GSTDYGILQINSRWWC,Yes
+AMY456,Lysozyme (hen),Untitled,GSTDYGILQINSRWWCNDGRTPGSRNLCNIPCSALLSSDITASVNCAKKIVSD,Yes
+AMY458,Prion protein,Untitled,KTNMKHMAGAAAAGAVVGGLG,Yes
+AMY459,Prion protein,Untitled,GYMLGSAMSRPIIHFGSDYED,Yes
+AMY460,Prolactin,Untitled,LPICPGGAARCQTVLRDLFDRAVVLSHYIHNLSS,Yes
+AMY461,Pulmonary surfactant protein C (SP-C),Untitled,FGIPCCPVHLKRLLIVVVVVVLVVVVIVGALLMGL,Yes
+AMY462,T-Protein (Tau),Untitled,PGGGSVQIVYKPVDLSKVTS,Yes
+AMY463,Transthyretin (TTR),Untitled,YTIAALLSPYS,Yes
+AMY464,Alpha synuclein,Untitled,GKTKEGVLYVGSKTKEGVVHGVATVAEKTKEQVTNVGGAVVTGVTAVAQKTVEGAGSIAAATGFVKKDQLGKNEEGAPQ,Yes
+AMY465,Apolipoprotein A-I (G26R),Untitled,DEPPQSPWDRVKDLATVYVDVLKDSRRDYVSQFEGSALGKQLNLKLLDNWDSVTSTFSKLREQLGPVTQEFWDNLEKETEGLR,Yes
+AMY466,TAR DNA-binding protein 43,Untitled,AAAQAA,No
+AMY467,De novo,Untitled,AAELRN,No
+AMY468,RNA-binding protein FUS,Untitled,AAIDWF,No
+AMY469,TAR DNA-binding protein 43,Untitled,AAIGWG,No
+AMY470,TAR DNA-binding protein 43,Untitled,AALQSS,No
+AMY471,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,AAPKPK,No
+AMY472,TAR DNA-binding protein 43,Untitled,AAQAAL,No
+AMY473,De novo,Untitled,AARRFF,No
+AMY474,Major curlin subunit precursor,Untitled,AAVDQT,No
+AMY475,Superoxide dismutase [Cu-Zn],Untitled,ACGVIG,No
+AMY476,Major curlin subunit precursor,Untitled,ADVGQG,No
+AMY477,Superoxide dismutase [Cu-Zn],Untitled,ADVSIE,No
+AMY478,De novo,Untitled,AEKLFD,No
+AMY479,De novo,Untitled,AEMEYL,No
+AMY480,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,AESDKK,No
+AMY481,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,AETKEP,No
+AMY482,De novo,Untitled,AEVLAL,No
+AMY483,TAR DNA-binding protein 43,Untitled,AFSINP,No
+AMY484,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,AGFQPQ,No
+AMY485,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,AGGYYQ,No
+AMY486,TAR DNA-binding protein 43,Untitled,AGSGSG,No
+AMY487,Cystatin-C precursor,Untitled,AGVNYF,Yes
+AMY488,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,AGYQQQ,No
+AMY489,RNA-binding protein FUS,Untitled,AIDWFD,No
+AMY490,TAR DNA-binding protein 43,Untitled,AIGWGS,No
+AMY491,Islet amyloid polypeptide precursor,Untitled,AILSST,Yes
+AMY492,De novo,Untitled,AINKIQ,No
+AMY493,Asparagine-rich protein,Untitled,AISNNN,No
+AMY494,De novo,Untitled,AIVAGD,Yes
+AMY495,De novo,Untitled,AIVAGS,Yes
+AMY496,De novo,Untitled,AIVAGT,Yes
+AMY497,Major curlin subunit precursor,Untitled,ALALQT,No
+AMY498,Apolipoprotein A-I precursor,Untitled,ALEEYT,Yes
+AMY499,TAR DNA-binding protein 43,Untitled,ALQSSW,No
+AMY500,Major curlin subunit precursor,Untitled,ALQTDA,No
+AMY501,TAR DNA-binding protein 43,Untitled,AMMAAA,No
+AMY502,Nitrogen regulatory protein GLN3,Untitled,AMNITN,No
+AMY503,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,ANATKK,No
+AMY504,Nucleoporin NSP1,Untitled,ANNNSN,No
+AMY505,Nucleoporin ASM4,Untitled,ANNYSS,No
+AMY506,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,APKPKK,No
+AMY507,TAR DNA-binding protein 43,Untitled,AQAALQ,No
+AMY508,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,AQAQPA,No
+AMY509,POU domain, class 2, transcription factor 1,Untitled,AQFIIS,Yes
+AMY510,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,AQPAGG,No
+AMY511,TAR DNA-binding protein 43,Untitled,ASNAGS,No
+AMY512,TAR DNA-binding protein 43,Untitled,ASQQNQ,No
+AMY513,TAR DNA-binding protein 43,Untitled,ASRQNQ,No
+AMY514,Ribonuclease pancreatic precursor,Untitled,ASSSNY,Yes
+AMY515,Major curlin subunit precursor,Untitled,ATAHQY,No
+AMY516,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,ATKKVD,No
+AMY517,Major curlin subunit precursor,Untitled,ATLDQW,No
+AMY518,Agglutinin-like protein 1 precursor,Untitled,ATTRTV,No
+AMY519,RNA-binding protein FUS,Untitled,ATVSFD,No
+AMY520,Major curlin subunit precursor,Untitled,AVDQTA,No
+AMY521,Cell wall adhesin EAP1 precursor,Untitled,AVTTGV,No
+AMY522,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,AYNAQA,No
+AMY523,Superoxide dismutase [Cu-Zn],Untitled,CGVIGI,Yes
+AMY524,TAR DNA-binding protein 43,Untitled,CPSGNN,No
+AMY525,De novo,Untitled,DADLYL,No
+AMY526,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,DAGYQQ,No
+AMY527,Major prion protein precursor,Untitled,DCVNIT,Yes
+AMY528,De novo,Untitled,DDSLFF,No
+AMY529,De novo,Untitled,DECFFF,No
+AMY530,Zinc finger protein YPR022C,Untitled,DENNTF,No
+AMY531,Flocculation protein FLO1 precursor,Untitled,DETVIV,No
+AMY532,Superoxide dismutase [Cu-Zn],Untitled,DHCIIG,Yes
+AMY533,Superoxide dismutase [Cu-Zn],Untitled,DHCIIW,Yes
+AMY534,De novo,Untitled,DILTYT,No
+AMY535,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,DKKEEE,No
+AMY536,Major curlin subunit precursor,Untitled,DLTITQ,No
+AMY537,Major curlin subunit precursor,Untitled,DLTQRG,No
+AMY538,RNA-binding protein FUS,Untitled,DNNTIF,No
+AMY539,Major curlin subunit precursor,Untitled,DQTASN,No
+AMY540,Major curlin subunit precursor,Untitled,DQWNGK,No
+AMY541,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,DSNQGN,No
+AMY542,Superoxide dismutase [Cu-Zn],Untitled,DSVISL,Yes
+AMY543,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,DTKPAE,No
+AMY544,Major curlin subunit precursor,Untitled,DVGQGS,No
+AMY545,Transcription factor PDR1,Untitled,DVNRNG,No
+AMY546,Superoxide dismutase [Cu-Zn],Untitled,DVSIED,No
+AMY547,RNA-binding protein FUS,Untitled,EATVSF,No
+AMY548,De novo,Untitled,ECFFFE,No
+AMY549,Superoxide dismutase [Cu-Zn],Untitled,EDSVIS,No
+AMY550,De novo,Untitled,EECLFL,No
+AMY551,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EEEKSA,No
+AMY552,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EEKKEE,No
+AMY553,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EEKPVQ,No
+AMY554,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EEKSAE,No
+AMY555,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EEKSEL,No
+AMY556,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EEPVKK,No
+AMY557,Alpha-synuclein,Untitled,EGVLYV,Yes
+AMY558,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EKKEEK,No
+AMY559,De novo,Untitled,EKNLYL,No
+AMY560,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EKPVQT,No
+AMY561,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EKSAET,No
+AMY562,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EKSELP,No
+AMY563,Major curlin subunit precursor,Untitled,ELNIYQ,No
+AMY564,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,ELPKVE,No
+AMY565,Major curlin subunit precursor,Untitled,EMTVKQ,No
+AMY566,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EPTKVE,No
+AMY567,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EPTREP,No
+AMY568,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,EPVKKE,No
+AMY569,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,ESDKKE,No
+AMY570,General transcriptional corepressor CYC8,Untitled,ESNTNN,No
+AMY571,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,ETKEPT,No
+AMY572,Flocculation protein FLO1 precursor,Untitled,ETVIVI,No
+AMY573,De novo,Untitled,ETWFFG,No
+AMY574,Hyphal wall protein 1,Untitled,EVTTGV,No
+AMY575,De novo,Untitled,EYLKIA,No
+AMY576,Acylphosphatase-2,Untitled,EYSNFS,Yes
+AMY577,De novo,Untitled,FAIRHF,Yes
+AMY578,De novo,Untitled,FERQHM,No
+AMY579,Lysozyme C precursor,Untitled,FESNFN,Yes
+AMY580,SWI/SNF chromatin-remodeling complex subunit SWI1,Untitled,FFNLNN,No
+AMY581,De novo,Untitled,FFWRFM,No
+AMY582,TAR DNA-binding protein 43,Untitled,FGAFSI,No
+AMY583,De novo,Untitled,FGELFE,No
+AMY584,Major curlin subunit precursor,Untitled,FGGGNG,No
+AMY585,Major curlin subunit precursor,Untitled,FGNNAT,No
+AMY586,TAR DNA-binding protein 43,Untitled,FGNQSG,No
+AMY587,Major curlin subunit precursor,Untitled,FGNSAT,No
+AMY588,TAR DNA-binding protein 43,Untitled,FGNSRG,No
+AMY589,TAR DNA-binding protein 43,Untitled,FGTFSI,No
+AMY590,RNA-binding protein MRN1,Untitled,FINYTN,No
+AMY591,RNA-binding protein FUS,Untitled,FKQIGI,No
+AMY592,De novo,Untitled,FLKYFT,No
+AMY593,De novo,Untitled,FMFFII,No
+AMY594,Alpha-galactosidase A precursor,Untitled,FMFNDL,No
+AMY595,Alpha-galactosidase A precursor,Untitled,FMSNDL,No
+AMY596,RNA-binding protein FUS,Untitled,FNKFGG,No
+AMY597,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,FNPQGG,No
+AMY598,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,FNYNNN,No
+AMY599,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,FQKQQK,No
+AMY600,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,FQPQSQ,No
+AMY601,TAR DNA-binding protein 43,Untitled,FSINPA,Yes
+AMY602,Negative growth regulatory protein NGR1,Untitled,FSNATN,No
+AMY603,60 kDa SS-A/Ro ribonucleoprotein,Untitled,FTFIQF,Yes
+AMY604,TAR DNA-binding protein 43,Untitled,GAAIGW,No
+AMY605,Major curlin subunit precursor,Untitled,GAAVDQ,No
+AMY606,Major curlin subunit precursor,Untitled,GADVGQ,No
+AMY607,TAR DNA-binding protein 43,Untitled,GAFSIN,No
+AMY608,De novo,Untitled,GAITIG,Yes
+AMY609,Superoxide dismutase [Cu-Zn],Untitled,GDHCII,Yes
+AMY610,RNA-binding protein FUS,Untitled,GEATVS,No
+AMY611,Immunoglobulin G-binding protein G precursor,Untitled,GEWTYD,Yes
+AMY612,Laminin subunit alpha-2 precursor,Untitled,GFFNLQ,No
+AMY613,GRB2-associated-binding protein 1,Untitled,GFFQQQ,Yes
+AMY614,Major curlin subunit precursor,Untitled,GFGNNA,No
+AMY615,TAR DNA-binding protein 43,Untitled,GFGNQS,No
+AMY616,Major curlin subunit precursor,Untitled,GFGNSA,No
+AMY617,TAR DNA-binding protein 43,Untitled,GFGNSR,No
+AMY618,RNA-binding protein FUS,Untitled,GFNKFG,No
+AMY619,Nucleoporin NSP1,Untitled,GFNNSA,No
+AMY620,mRNA-binding protein PUF2,Untitled,GFNNTP,No
+AMY621,Alpha-galactosidase A precursor,Untitled,GFPGSF,No
+AMY622,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GFQPQS,No
+AMY623,Alpha-galactosidase A precursor,Untitled,GFSGSF,No
+AMY624,Serine/threonine-protein kinase KSP1,Untitled,GFSNNN,No
+AMY625,TAR DNA-binding protein 43,Untitled,GGFGNQ,No
+AMY626,RNA-binding protein FUS,Untitled,GGFNKF,No
+AMY627,Major curlin subunit precursor,Untitled,GGGGNH,No
+AMY628,Major curlin subunit precursor,Untitled,GGGGNN,No
+AMY629,TAR DNA-binding protein 43,Untitled,GGGMNF,No
+AMY630,Major curlin subunit precursor,Untitled,GGGNGA,No
+AMY631,Major curlin subunit precursor,Untitled,GGGNHG,No
+AMY632,Major curlin subunit precursor,Untitled,GGGNNS,Yes
+AMY633,Major curlin subunit precursor,Untitled,GGGNSA,No
+AMY634,TAR DNA-binding protein 43,Untitled,GGMNFG,No
+AMY635,Major curlin subunit precursor,Untitled,GGNGAA,No
+AMY636,Major curlin subunit precursor,Untitled,GGNGAD,No
+AMY637,Major curlin subunit precursor,Untitled,GGNHGG,No
+AMY638,Major curlin subunit precursor,Untitled,GGNNSG,No
+AMY639,Major curlin subunit precursor,Untitled,GGNSAL,No
+AMY640,RNA-binding protein FUS,Untitled,GGQQQS,No
+AMY641,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GGRGNY,No
+AMY642,Amyloid beta A4 protein precursor,Untitled,GGVVIA,Yes
+AMY643,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GGYQQQ,No
+AMY644,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GGYQQY,No
+AMY645,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GGYYQN,No
+AMY646,RNA-binding protein FUS,Untitled,GIIKTN,No
+AMY647,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GIKLAN,No
+AMY648,Agglutinin-like protein 1 precursor,Untitled,GIVIVA,Yes
+AMY649,Alpha-galactosidase A precursor,Untitled,GKQAYQ,No
+AMY650,Alpha-galactosidase A precursor,Untitled,GKQGYQ,No
+AMY651,Ribose-5-phosphate isomerase,Untitled,GLFINM,Yes
+AMY652,Basement membrane-specific heparan sulfate proteoglycan core protein precursor,Untitled,GLLLWQ,No
+AMY653,De novo,Untitled,GMFNIQ,No
+AMY654,TAR DNA-binding protein 43,Untitled,GMLASQ,No
+AMY655,TAR DNA-binding protein 43,Untitled,GMLASR,No
+AMY656,TAR DNA-binding protein 43,Untitled,GMMGML,Yes
+AMY657,TAR DNA-binding protein 43,Untitled,GMNFGA,No
+AMY658,TAR DNA-binding protein 43,Untitled,GMNFGT,No
+AMY659,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GMSLND,No
+AMY660,Protocadherin-15 precursor,Untitled,GNFNNL,Yes
+AMY661,Major curlin subunit precursor,Untitled,GNGAAV,No
+AMY662,Major curlin subunit precursor,Untitled,GNGADV,No
+AMY663,Major curlin subunit precursor,Untitled,GNHGGG,No
+AMY664,Major curlin subunit precursor,Untitled,GNNATA,No
+AMY665,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GNNQQN,No
+AMY666,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GNNRYQ,No
+AMY667,Major curlin subunit precursor,Untitled,GNNSGP,No
+AMY668,TAR DNA-binding protein 43,Untitled,GNNSYS,No
+AMY669,TAR DNA-binding protein 43,Untitled,GNQSGF,No
+AMY670,Major curlin subunit precursor,Untitled,GNSALA,No
+AMY671,Major curlin subunit precursor,Untitled,GNSATL,No
+AMY672,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GNYKNF,No
+AMY673,Major curlin subunit precursor,Untitled,GQGSDD,No
+AMY674,Transcription factor PDR1,Untitled,GQNNTQ,No
+AMY675,RNA-binding protein FUS,Untitled,GQQNQY,No
+AMY676,RNA-binding protein FUS,Untitled,GQQQSY,No
+AMY677,RNA-binding protein FUS,Untitled,GQQSYS,No
+AMY678,RNA-binding protein FUS,Untitled,GQSSYS,No
+AMY679,Superoxide dismutase [Cu-Zn],Untitled,GRIGIA,No
+AMY680,TAR DNA-binding protein 43,Untitled,GSASNA,No
+AMY681,TAR DNA-binding protein 43,Untitled,GSGFNG,No
+AMY682,TAR DNA-binding protein 43,Untitled,GSGSGF,No
+AMY683,Transcription factor RLM1,Untitled,GSNNTF,No
+AMY684,TAR DNA-binding protein 43,Untitled,GSNSGA,No
+AMY685,Beta-hexosaminidase subunit alpha precursor,Untitled,GTFFIN,Yes
+AMY686,Bardet-Biedl syndrome 5 protein,Untitled,GTFFIT,Yes
+AMY687,GDH/6PGL endoplasmic bifunctional protein precursor,Untitled,GTFFQE,No
+AMY688,Polycystin-1 precursor,Untitled,GTFNII,Yes
+AMY689,TAR DNA-binding protein 43,Untitled,GTFSIN,No
+AMY690,Plasminogen activator inhibitor 1 precursor,Untitled,GTVLFM,Yes
+AMY691,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1,Untitled,GVFNNQ,No
+AMY692,Superoxide dismutase [Cu-Zn],Untitled,GVIGIA,Yes
+AMY693,Superoxide dismutase [Cu-Zn],Untitled,GVIWIA,Yes
+AMY694,Transcriptional regulator URE2,Untitled,GVNNNN,No
+AMY695,Cystatin-C precursor,Untitled,GVNYFL,Yes
+AMY696,Superoxide dismutase [Cu-Zn],Untitled,GVPGIA,No
+AMY697,Cell wall adhesin EAP1 precursor,Untitled,GVTIIT,No
+AMY698,Major curlin subunit precursor,Untitled,GVVPQY,No
+AMY699,Hyphal wall protein 1,Untitled,GVVVVT,No
+AMY700,TAR DNA-binding protein 43,Untitled,GWGSAS,No
+AMY701,Gamma-aminobutyric acid receptor subunit beta-1 precursor,Untitled,GYFILQ,Yes
+AMY702,Tyrosine-protein kinase transmembrane receptor ROR2 precursor,Untitled,GYFLNF,Yes
+AMY703,G-protein coupled receptor 20,Untitled,GYFLNM,Yes
+AMY704,RNA-binding protein FUS,Untitled,GYGQSS,No
+AMY705,Major prion protein precursor,Untitled,GYMLGS,Yes
+AMY706,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GYQAGF,No
+AMY707,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GYQAYN,No
+AMY708,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GYQQGG,No
+AMY709,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GYQQQF,No
+AMY710,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GYQQQY,No
+AMY711,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GYSGYQ,No
+AMY712,De novo,Untitled,GYVLGS,Yes
+AMY713,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,GYYQNY,No
+AMY714,De novo,Untitled,HAFLII,No
+AMY715,Cystic fibrosis transmembrane conductance regulator,Untitled,HFVWIA,Yes
+AMY716,CAAX prenyl protease 1 homolog,Untitled,HGFNQQ,Yes
+AMY717,Major curlin subunit precursor,Untitled,HGGGGN,No
+AMY718,Major curlin subunit precursor,Untitled,HGGGNG,No
+AMY719,Presenilin-2,Untitled,HGWLIM,Yes
+AMY720,De novo,Untitled,HIFIIM,No
+AMY721,Histone-lysine N-methyltransferase 2C,Untitled,HIFLLC,Yes
+AMY722,De novo,Untitled,HKALFW,No
+AMY723,Alpha-(1,3)-fucosyltransferase 9,Untitled,HLFNLT,Yes
+AMY724,Taste receptor type 2 member 5,Untitled,HLVYIM,Yes
+AMY725,mRNA-binding protein PUF2,Untitled,HNNNNN,No
+AMY726,Serine/threonine-protein kinase CBK1,Untitled,HNNNSQ,No
+AMY727,Serine/threonine-protein kinase KSP1,Untitled,HNSVNF,No
+AMY728,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,HNTNNA,No
+AMY729,Homeobox protein DLX-3,Untitled,HQFNLN,Yes
+AMY730,Titin,Untitled,HQLIIM,Yes
+AMY731,De novo,Untitled,HSSNNF,Yes
+AMY732,Cell wall adhesin EAP1 precursor,Untitled,HTAVTT,No
+AMY733,Otoferlin,Untitled,HTFNLL,Yes
+AMY734,De novo,Untitled,HTVIIE,Yes
+AMY735,Alpha-galactosidase A precursor,Untitled,HWQNFA,No
+AMY736,Alpha-galactosidase A precursor,Untitled,HWRNFA,No
+AMY737,Bloom syndrome protein,Untitled,HYFNIF,Yes
+AMY738,De novo,Untitled,ICSLYQ,No
+AMY739,Major curlin subunit precursor,Untitled,IDLTQR,No
+AMY740,Superoxide dismutase [Cu-Zn],Untitled,IEDSVI,No
+AMY741,De novo,Untitled,IEMIFV,Yes
+AMY742,De novo,Untitled,IFDFIQ,Yes
+AMY743,Transcriptional activator/repressor MOT3,Untitled,IFNYNN,No
+AMY744,RNA-binding protein FUS,Untitled,IGIIKT,No
+AMY745,Nucleoporin ASM4,Untitled,IGNNSI,No
+AMY746,Superoxide dismutase [Cu-Zn],Untitled,IGRTLV,No
+AMY747,Superoxide dismutase [Cu-Zn],Untitled,IGRTLW,No
+AMY748,TAR DNA-binding protein 43,Untitled,IGWGSA,No
+AMY749,De novo,Untitled,IHKAQN,No
+AMY750,Major prion protein precursor,Untitled,IIHFGS,Yes
+AMY751,Superoxide dismutase [Cu-Zn],Untitled,IINFEQ,No
+AMY752,De novo,Untitled,IINFIT,Yes
+AMY753,Superoxide dismutase [Cu-Zn],Untitled,IIPFEQ,No
+AMY754,Cell wall adhesin EAP1 precursor,Untitled,IITVTN,No
+AMY755,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,IKLANA,No
+AMY756,De novo,Untitled,ILENIS,No
+AMY757,Transcription factor RLM1,Untitled,ILGSNN,No
+AMY758,De novo,Untitled,ILVAGD,Yes
+AMY759,De novo,Untitled,ILVAGS,Yes
+AMY760,RNA-binding protein FUS,Untitled,INLYTD,No
+AMY761,Asparagine-rich protein,Untitled,INNMTN,No
+AMY762,Nucleoporin NSP1,Untitled,INNVSN,No
+AMY763,TAR DNA-binding protein 43,Untitled,INPAMM,No
+AMY764,Negative growth regulatory protein NGR1,Untitled,IQNNSN,No
+AMY765,Major prion protein precursor,Untitled,ISFLIF,Yes
+AMY766,Superoxide dismutase [Cu-Zn],Untitled,ISLSGD,No
+AMY767,De novo,Untitled,ISMTTS,No
+AMY768,Major curlin subunit precursor,Untitled,ITQHGG,No
+AMY769,Cell wall adhesin EAP1 precursor,Untitled,ITVTND,No
+AMY770,Agglutinin-like protein 1 precursor,Untitled,IVATTR,Yes
+AMY771,Flocculation protein FLO1 precursor,Untitled,IVIRTP,No
+AMY772,Agglutinin-like protein 1 precursor,Untitled,IVIVAT,No
+AMY773,Alpha-galactosidase A precursor,Untitled,IVYSCE,Yes
+AMY774,Alpha-galactosidase A precursor,Untitled,IVYSWE,Yes
+AMY775,Insulin-like growth factor-binding protein 1 precursor,Untitled,IYFNVQ,No
+AMY776,Major curlin subunit precursor,Untitled,IYQYGG,No
+AMY777,RNA-binding protein FUS,Untitled,KAAIDW,No
+AMY778,De novo,Untitled,KAFIIQ,No
+AMY779,De novo,Untitled,KAILFL,No
+AMY780,De novo,Untitled,KECLIN,No
+AMY781,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KEEEKS,No
+AMY782,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KEEKPV,No
+AMY783,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KEEKSE,No
+AMY784,De novo,Untitled,KENIIF,No
+AMY785,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KEPTRE,No
+AMY786,Major prion protein precursor,Untitled,KGENFT,No
+AMY787,Ribonuclease pancreatic precursor,Untitled,KHIIVA,Yes
+AMY788,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KKEEEK,No
+AMY789,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KKEEKP,No
+AMY790,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KKEEKS,No
+AMY791,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KKTLKL,No
+AMY792,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KKVDTK,No
+AMY793,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KLANAT,No
+AMY794,Caspase-3 precursor,Untitled,KLFIIQ,Yes
+AMY795,Proprotein convertase subtilisin/kexin type 6 precursor,Untitled,KLFIQF,Yes
+AMY796,De novo,Untitled,KLLEIA,No
+AMY797,Homo sapiens (Human),Untitled,KLLIYE,Yes
+AMY798,Amyloid beta A4 protein precursor,Untitled,KLVFFA,Yes
+AMY799,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KLVSSS,No
+AMY800,De novo,Untitled,KMFFIQ,No
+AMY801,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KPAESD,No
+AMY802,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KPKKTL,No
+AMY803,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KPVQTE,No
+AMY804,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KQAAPK,No
+AMY805,Major curlin subunit precursor,Untitled,KQFGGG,No
+AMY806,RNA-binding protein FUS,Untitled,KQIGII,Yes
+AMY807,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KQQKQA,No
+AMY808,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KSAETK,No
+AMY809,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KSELPK,No
+AMY810,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KTLKLV,No
+AMY811,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KVDTKP,No
+AMY812,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KVEDLK,No
+AMY813,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,KVEEPV,No
+AMY814,Microtubule-associated protein tau,Untitled,KVQIIN,Yes
+AMY815,Serine-protein kinase ATM,Untitled,KYLNWD,No
+AMY816,Uncharacterized protein YBL081W,Untitled,KYNNTG,No
+AMY817,De novo,Untitled,LAEAIG,No
+AMY818,Major curlin subunit precursor,Untitled,LALQTD,No
+AMY819,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,LANATK,No
+AMY820,De novo,Untitled,LANFLV,Yes
+AMY821,TAR DNA-binding protein 43,Untitled,LASQQN,No
+AMY822,TAR DNA-binding protein 43,Untitled,LASRQN,No
+AMY823,De novo,Untitled,LAVAGD,Yes
+AMY824,Apolipoprotein A-I precursor,Untitled,LAVLFL,Yes
+AMY825,von Willebrand factor precursor,Untitled,LDGFSR,No
+AMY826,von Willebrand factor precursor,Untitled,LDGSSR,No
+AMY827,Major curlin subunit precursor,Untitled,LDQWNG,No
+AMY828,4F2 cell-surface antigen heavy chain,Untitled,LEFWLQ,Yes
+AMY829,Alpha-galactosidase A precursor,Untitled,LFMFND,No
+AMY830,Alpha-galactosidase A precursor,Untitled,LFMSND,No
+AMY831,Nucleoporin NSP1,Untitled,LFNNST,No
+AMY832,[PIN+] prion protein RNQ1,Untitled,LGNNSN,No
+AMY833,Major prion protein precursor,Untitled,LIFLIV,Yes
+AMY834,G protein-coupled receptor GPR1,Untitled,LINNSV,No
+AMY835,De novo,Untitled,LIVAAD,Yes
+AMY836,De novo,Untitled,LIVAGD,Yes
+AMY837,De novo,Untitled,LIVAGE,Yes
+AMY838,De novo,Untitled,LIVAGK,Yes
+AMY839,De novo,Untitled,LIVAGS,Yes
+AMY840,De novo,Untitled,LIVAGT,Yes
+AMY841,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,LKLVSS,No
+AMY842,Coagulation factor VIII precursor,Untitled,LLFCHI,No
+AMY843,Coagulation factor VIII precursor,Untitled,LLFYHI,No
+AMY844,Coagulation factor VIII precursor,Untitled,LLGPTI,No
+AMY845,[NU+] prion formation protein 1,Untitled,LLNKTN,No
+AMY846,Coagulation factor VIII precursor,Untitled,LLVPTI,No
+AMY847,Nitrogen regulatory protein GLN3,Untitled,LMNTTN,No
+AMY848,De novo,Untitled,LMSLFG,No
+AMY849,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,LNDFQK,No
+AMY850,Major curlin subunit precursor,Untitled,LNIYQY,No
+AMY851,G protein-coupled receptor GPR1,Untitled,LNNITA,No
+AMY852,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,LPKVED,No
+AMY853,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,LQGYQA,No
+AMY854,Transcriptional activator/repressor MOT3,Untitled,LQNVSN,No
+AMY855,TAR DNA-binding protein 43,Untitled,LQSSWG,No
+AMY856,Major curlin subunit precursor,Untitled,LQTDAR,No
+AMY857,Superoxide dismutase [Cu-Zn],Untitled,LSGDHC,No
+AMY858,Beta-galactosidase precursor,Untitled,LTFIQV,No
+AMY859,Major curlin subunit precursor,Untitled,LTITQH,No
+AMY860,Major curlin subunit precursor,Untitled,LTQRGF,No
+AMY861,Alstrom syndrome protein 1,Untitled,LVFYQQ,Yes
+AMY862,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,LVSSSG,No
+AMY863,TAR DNA-binding protein 43,Untitled,MAAAQA,No
+AMY864,von Willebrand factor precursor,Untitled,MERLRI,No
+AMY865,von Willebrand factor precursor,Untitled,MEWLRI,No
+AMY866,TAR DNA-binding protein 43,Untitled,MGGGMN,No
+AMY867,TAR DNA-binding protein 43,Untitled,MGMLAS,No
+AMY868,RNA-binding suppressor of PAS kinase protein 1,Untitled,MGNNTV,No
+AMY869,De novo,Untitled,MIENIQ,Yes
+AMY870,Major prion protein precursor,Untitled,MIHFGN,Yes
+AMY871,RNA-binding protein FUS,Untitled,MINLYT,No
+AMY872,TAR DNA-binding protein 43,Untitled,MLASQQ,No
+AMY873,TAR DNA-binding protein 43,Untitled,MLASRQ,No
+AMY874,Major prion protein precursor,Untitled,MLVLFV,Yes
+AMY875,TAR DNA-binding protein 43,Untitled,MMAAAQ,No
+AMY876,TAR DNA-binding protein 43,Untitled,MMGMLA,No
+AMY877,Major prion protein precursor,Untitled,MMHFGN,Yes
+AMY878,TAR DNA-binding protein 43,Untitled,MNFGAF,No
+AMY879,TAR DNA-binding protein 43,Untitled,MNFGTF,No
+AMY880,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,MSDSNQ,No
+AMY881,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,MSLNDF,No
+AMY882,Integrin alpha-8 precursor,Untitled,MTFIQN,Yes
+AMY883,Major curlin subunit precursor,Untitled,MTVKQF,No
+AMY884,Amyloid beta A4 protein precursor,Untitled,MVGGVV,Yes
+AMY885,De novo,Untitled,MYFFIF,No
+AMY886,De novo,Untitled,MYWIIF,No
+AMY887,TAR DNA-binding protein 43,Untitled,NAGSGS,No
+AMY888,Nuclear polyadenylated RNA-binding protein 4,Untitled,NANASS,No
+AMY889,Nucleoporin NSP1,Untitled,NANTSN,No
+AMY890,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NAQAQP,No
+AMY891,Major curlin subunit precursor,Untitled,NATAHQ,No
+AMY892,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NATKKV,No
+AMY893,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NDFQKQ,No
+AMY894,mRNA-binding protein PUF2,Untitled,NDNNNN,No
+AMY895,Transcription factor RLM1,Untitled,NDNNSN,No
+AMY896,Serine/threonine-protein kinase KSP1,Untitled,NENGNA,No
+AMY897,Cohesin subunit SA-3,Untitled,NFFIQS,No
+AMY898,Vasoactive intestinal polypeptide receptor 1 precursor,Untitled,NFFWLL,No
+AMY899,TAR DNA-binding protein 43,Untitled,NFGAFS,No
+AMY900,De novo,Untitled,NFGSVQ,Yes
+AMY901,TAR DNA-binding protein 43,Untitled,NFGTFS,No
+AMY902,De novo,Untitled,NFLVH,Yes
+AMY903,Islet amyloid polypeptide precursor,Untitled,NFLVHS,Yes
+AMY904,Serine/threonine-protein kinase KSP1,Untitled,NFNNGN,No
+AMY905,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NFNYNN,No
+AMY906,Major curlin subunit precursor,Untitled,NGAAVD,No
+AMY907,Major curlin subunit precursor,Untitled,NGADVG,No
+AMY908,Agglutinin-like protein 1 precursor,Untitled,NGIVIV,No
+AMY909,mRNA-binding protein PUF2,Untitled,NGNLSN,No
+AMY910,SWI/SNF chromatin-remodeling complex subunit SWI1,Untitled,NGNLTS,No
+AMY911,Asparagine-rich protein,Untitled,NGNNSN,No
+AMY912,[PIN+] prion protein RNQ1,Untitled,NGNQNR,No
+AMY913,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NGNQQQ,No
+AMY914,Major curlin subunit precursor,Untitled,NHGGGG,No
+AMY915,Butyrylcholinesterase, isoform CRA_b,Untitled,NIDQSF,No
+AMY916,De novo,Untitled,NIFNFT,Yes
+AMY917,De novo,Untitled,NIFNIT,Yes
+AMY918,Tyrosine-protein kinase Mer precursor,Untitled,NIFWVQ,Yes
+AMY919,Nucleoporin ASM4,Untitled,NIGNNS,No
+AMY920,Butyrylcholinesterase, isoform CRA_b,Untitled,NIGQSF,No
+AMY921,De novo,Untitled,NINFFT,Yes
+AMY922,De novo,Untitled,NINFIT,Yes
+AMY923,SWI/SNF chromatin-remodeling complex subunit SWI1,Untitled,NININV,No
+AMY924,General transcriptional corepressor CYC8,Untitled,NINKSN,Yes
+AMY925,Asparagine-rich protein,Untitled,NINNNN,No
+AMY926,U6 snRNA-associated Sm-like protein LSm4,Untitled,NINNSI,No
+AMY927,SWI/SNF chromatin-remodeling complex subunit SWI1,Untitled,NINNST,No
+AMY928,De novo,Untitled,NIQYQF,No
+AMY929,RNA-binding protein MRN1,Untitled,NISNNN,No
+AMY930,De novo,Untitled,NIVLIM,No
+AMY931,Major curlin subunit precursor,Untitled,NIYQYG,No
+AMY932,RNA-binding protein FUS,Untitled,NKFGGP,No
+AMY933,DNA mismatch repair protein Mlh3,Untitled,NLFYQL,Yes
+AMY934,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NLQGYQ,No
+AMY935,RNA-binding protein FUS,Untitled,NLYTDR,No
+AMY936,TAR DNA-binding protein 43,Untitled,NMGGGM,No
+AMY937,Nitrogen regulatory protein GLN3,Untitled,NMNMNL,No
+AMY938,Major curlin subunit precursor,Untitled,NNATAH,No
+AMY939,Nuclear polyadenylated RNA-binding protein 4,Untitled,NNGGNN,No
+AMY940,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NNLQGY,No
+AMY941,[PIN+] prion protein RNQ1,Untitled,NNNGNQ,No
+AMY942,RNA-binding protein MRN1,Untitled,NNNISN,No
+AMY943,Asparagine-rich protein,Untitled,NNNISV,No
+AMY944,Transcription factor PDR1,Untitled,NNNKNN,No
+AMY945,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NNNLQG,No
+AMY946,Serine/threonine-protein kinase KSP1,Untitled,NNNNNE,No
+AMY947,SWI/SNF chromatin-remodeling complex subunit SWI1,Untitled,NNNNSN,No
+AMY948,SWI/SNF chromatin-remodeling complex subunit SWI1,Untitled,NNNNTN,No
+AMY949,Nuclear and cytoplasmic polyadenylated RNA-binding protein PUB1,Untitled,NNNRGG,No
+AMY950,Transcriptional regulator URE2,Untitled,NNNSSS,No
+AMY951,Asparagine-rich protein,Untitled,NNNWSL,Yes
+AMY952,Major prion protein precursor,Untitled,NNQNTF,Yes
+AMY953,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NNRYQG,No
+AMY954,Major curlin subunit precursor,Untitled,NNSGPN,Yes
+AMY955,TAR DNA-binding protein 43,Untitled,NNSYSG,No
+AMY956,RNA-binding protein FUS,Untitled,NNTIFV,No
+AMY957,TAR DNA-binding protein 43,Untitled,NPAMMA,No
+AMY958,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NPDAGY,No
+AMY959,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NPQGGR,No
+AMY960,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NPQGGY,No
+AMY961,Transportin-1,Untitled,NQFIIS,Yes
+AMY962,Polypeptide N-acetylgalactosaminyltransferase 1,Untitled,NQFNLM,Yes
+AMY963,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NQGNNQ,No
+AMY964,Serine/threonine-protein kinase KSP1,Untitled,NQGYNT,No
+AMY965,U6 snRNA-associated Sm-like protein LSm4,Untitled,NQNMNN,No
+AMY966,Major prion protein precursor,Untitled,NQNNFV,Yes
+AMY967,De novo,Untitled,NQQNQY,Yes
+AMY968,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NQQNYQ,No
+AMY969,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NQQQGN,No
+AMY970,TAR DNA-binding protein 43,Untitled,NQSCPS,No
+AMY971,TAR DNA-binding protein 43,Untitled,NQSGFG,No
+AMY972,RNA-binding protein FUS,Untitled,NQYNSS,No
+AMY973,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NRYQGY,No
+AMY974,Major curlin subunit precursor,Untitled,NSALAL,No
+AMY975,Major curlin subunit precursor,Untitled,NSATLD,No
+AMY976,TAR DNA-binding protein 43,Untitled,NSGAAI,No
+AMY977,Nitrogen regulatory protein GLN3,Untitled,NSNINQ,No
+AMY978,RNA-binding suppressor of PAS kinase protein 1,Untitled,NSNLTA,No
+AMY979,mRNA-binding protein PUF2,Untitled,NSNNSN,No
+AMY980,U6 snRNA-associated Sm-like protein LSm4,Untitled,NSNSSN,No
+AMY981,Nitrogen regulatory protein GLN3,Untitled,NSNTNT,No
+AMY982,Nucleoporin NSP1,Untitled,NSNTTK,No
+AMY983,Transcription factor RLM1,Untitled,NSNYTQ,No
+AMY984,Transcription factor RLM1,Untitled,NSSFNG,No
+AMY985,TAR DNA-binding protein 43,Untitled,NSYSGS,No
+AMY986,RNA-binding protein FUS,Untitled,NTIFVQ,No
+AMY987,General transcriptional corepressor CYC8,Untitled,NTNNTS,No
+AMY988,Transthyretin precursor,Untitled,NVAMHV,No
+AMY989,Transthyretin precursor,Untitled,NVAVHV,No
+AMY990,Asparagine-rich protein,Untitled,NVNFSN,No
+AMY991,Major curlin subunit precursor,Untitled,NVTQVG,No
+AMY992,De novo,Untitled,NYCNFV,Yes
+AMY993,De novo,Untitled,NYFAIR,No
+AMY994,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NYKNFN,No
+AMY995,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NYNNNL,No
+AMY996,mRNA-binding protein PUF2,Untitled,NYNNSG,No
+AMY997,Transcriptional activator/repressor MOT3,Untitled,NYNNSS,No
+AMY998,De novo,Untitled,NYNTYR,No
+AMY999,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NYQGYS,No
+AMY1000,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,NYQQYS,No
+AMY1001,Aminopeptidase N,Untitled,NYVWIV,Yes
+AMY1002,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PAESDK,No
+AMY1003,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PAGGYY,No
+AMY1004,TAR DNA-binding protein 43,Untitled,PAMMAA,No
+AMY1005,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PDAGYQ,No
+AMY1006,TAR DNA-binding protein 43,Untitled,PGGFGN,No
+AMY1007,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PKKTLK,No
+AMY1008,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PKPKKT,No
+AMY1009,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PKVEDL,No
+AMY1010,RNA-binding protein FUS,Untitled,PMINLY,No
+AMY1011,Low-density lipoprotein receptor precursor,Untitled,PNGITL,No
+AMY1012,Nitrogen regulatory protein GLN3,Untitled,PNSANS,No
+AMY1013,Low-density lipoprotein receptor precursor,Untitled,PNVITL,No
+AMY1014,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PQGGRG,No
+AMY1015,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PQGGYQ,No
+AMY1016,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PQSQGM,No
+AMY1017,Major curlin subunit precursor,Untitled,PQYGGG,No
+AMY1018,TAR DNA-binding protein 43,Untitled,PSGNNQ,No
+AMY1019,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PTKVEE,No
+AMY1020,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PTREPT,No
+AMY1021,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PVKKEE,No
+AMY1022,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,PVQTEE,No
+AMY1023,RNA-binding protein FUS,Untitled,PYGQQS,No
+AMY1024,TAR DNA-binding protein 43,Untitled,QAALQS,No
+AMY1025,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QAAPKP,No
+AMY1026,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QAGFQP,No
+AMY1027,De novo,Untitled,QANKHI,Yes
+AMY1028,De novo,Untitled,QAQNQW,No
+AMY1029,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QAQPAG,No
+AMY1030,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QAYNAQ,No
+AMY1031,De novo,Untitled,QEMRHF,Yes
+AMY1032,Splicing factor 3A subunit 2,Untitled,QFFLQF,Yes
+AMY1033,Major curlin subunit precursor,Untitled,QFGGGN,No
+AMY1034,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QFNPQG,No
+AMY1035,Mediator of RNA polymerase II transcription subunit 12,Untitled,QGFNNQ,No
+AMY1036,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QGGRGN,No
+AMY1037,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QGGYQQ,No
+AMY1038,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QGMSLN,No
+AMY1039,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QGNNQQ,No
+AMY1040,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QGNNRY,No
+AMY1041,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QGYQAG,No
+AMY1042,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QGYQAY,No
+AMY1043,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QGYSGY,No
+AMY1044,Major curlin subunit precursor,Untitled,QHGGGN,No
+AMY1045,RNA-binding protein FUS,Untitled,QIGIIK,No
+AMY1046,Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha precursor,Untitled,QILLWS,Yes
+AMY1047,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QKQAAP,No
+AMY1048,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QKQQKQ,No
+AMY1049,De novo,Untitled,QLENYC,Yes
+AMY1050,Growth/differentiation factor 3 precursor,Untitled,QLFINF,Yes
+AMY1051,Aldehyde dehydrogenase X, mitochondrial precursor,Untitled,QLFINN,No
+AMY1052,Prosaposin receptor GPR37 precursor,Untitled,QLFLQI,Yes
+AMY1053,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QNGNQQ,No
+AMY1054,Putative BPIFA4P protein precursor,Untitled,QNLLWQ,Yes
+AMY1055,TAR DNA-binding protein 43,Untitled,QNQSCP,No
+AMY1056,TAR DNA-binding protein 43,Untitled,QNQSGP,No
+AMY1057,RNA-binding protein FUS,Untitled,QNQYNS,No
+AMY1058,Asparagine-rich protein,Untitled,QNSLNM,No
+AMY1059,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QNYQGY,No
+AMY1060,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QNYQQY,No
+AMY1061,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QPAGGY,No
+AMY1062,RNA-binding protein FUS,Untitled,QPMINL,No
+AMY1063,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QPQSQG,No
+AMY1064,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQFNPQ,No
+AMY1065,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQGGYQ,No
+AMY1066,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQGNNR,No
+AMY1067,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQKQAA,No
+AMY1068,TAR DNA-binding protein 43,Untitled,QQNQSC,No
+AMY1069,TAR DNA-binding protein 43,Untitled,QQNQSG,No
+AMY1070,RNA-binding protein FUS,Untitled,QQNQYN,No
+AMY1071,Transcription factor RLM1,Untitled,QQNTSF,No
+AMY1072,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQNYQQ,No
+AMY1073,SWI/SNF chromatin-remodeling complex subunit SWI1,Untitled,QQNYSK,No
+AMY1074,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQQFNP,No
+AMY1075,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQQGNN,No
+AMY1076,RNA-binding protein FUS,Untitled,QQQSYG,No
+AMY1077,RNA-binding protein FUS,Untitled,QQQSYN,No
+AMY1078,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQQYNP,No
+AMY1079,RNA-binding protein FUS,Untitled,QQSYGQ,No
+AMY1080,RNA-binding protein FUS,Untitled,QQSYNP,No
+AMY1081,RNA-binding protein FUS,Untitled,QQSYSG,No
+AMY1082,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQYNPD,No
+AMY1083,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQYNPQ,No
+AMY1084,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QQYSQN,No
+AMY1085,Major curlin subunit precursor,Untitled,QRGFGN,No
+AMY1086,TAR DNA-binding protein 43,Untitled,QSCPSG,No
+AMY1087,TAR DNA-binding protein 43,Untitled,QSGFGN,No
+AMY1088,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QSQGMS,No
+AMY1089,TAR DNA-binding protein 43,Untitled,QSSWGM,No
+AMY1090,RNA-binding protein FUS,Untitled,QSSYSS,No
+AMY1091,RNA-binding protein FUS,Untitled,QSYGQQ,No
+AMY1092,RNA-binding protein FUS,Untitled,QSYNPP,No
+AMY1093,RNA-binding protein FUS,Untitled,QSYSGY,No
+AMY1094,Major curlin subunit precursor,Untitled,QTDARN,No
+AMY1095,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QTEEKK,No
+AMY1096,Guanine nucleotide-binding protein subunit beta-5,Untitled,QTFLVN,Yes
+AMY1097,Interferon alpha-10 precursor,Untitled,QTFNLF,No
+AMY1098,De novo,Untitled,QTNLYG,No
+AMY1099,Major curlin subunit precursor,Untitled,QVGFGN,No
+AMY1100,von Willebrand factor precursor,Untitled,QVVHIG,No
+AMY1101,von Willebrand factor precursor,Untitled,QVVPIG,No
+AMY1102,Major curlin subunit precursor,Untitled,QWNGKN,No
+AMY1103,RNA-binding protein Musashi homolog 1,Untitled,QYFEQF,Yes
+AMY1104,Major curlin subunit precursor,Untitled,QYGGGG,No
+AMY1105,Major curlin subunit precursor,Untitled,QYGGGN,No
+AMY1106,De novo,Untitled,QYGGNA,Yes
+AMY1107,De novo,Untitled,QYGGNN,Yes
+AMY1108,U6 snRNA-associated Sm-like protein LSm4,Untitled,QYNNSN,No
+AMY1109,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QYNPDA,No
+AMY1110,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QYNPQG,No
+AMY1111,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,QYSQNG,No
+AMY1112,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,REPTKV,No
+AMY1113,De novo,Untitled,RETWFF,No
+AMY1114,Major curlin subunit precursor,Untitled,RGFGNS,No
+AMY1115,RNA-binding protein FUS,Untitled,RGGFNK,No
+AMY1116,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,RGNYKN,No
+AMY1117,Superoxide dismutase [Cu-Zn],Untitled,RIGIAQ,No
+AMY1118,Serine/threonine-protein kinase KSP1,Untitled,RLSNNI,No
+AMY1119,De novo,Untitled,RLVFID,No
+AMY1120,De novo,Untitled,RMFNII,No
+AMY1121,Ribonuclease pancreatic precursor,Untitled,RNLTKD,No
+AMY1122,Hepatocyte nuclear factor 1-beta,Untitled,RQFNQT,No
+AMY1123,TAR DNA-binding protein 43,Untitled,RQNQSG,No
+AMY1124,Protocadherin beta-2 precursor,Untitled,RQVLIF,Yes
+AMY1125,De novo,Untitled,RTVIIE,Yes
+AMY1126,De novo,Untitled,RVAFFE,No
+AMY1127,De novo,Untitled,RVFNIM,Yes
+AMY1128,G protein-coupled receptor GPR1,Untitled,RVNNNA,No
+AMY1129,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,RYQGYQ,No
+AMY1130,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SAETKE,No
+AMY1131,Major curlin subunit precursor,Untitled,SALALQ,Yes
+AMY1132,TAR DNA-binding protein 43,Untitled,SASNAG,No
+AMY1133,Major curlin subunit precursor,Untitled,SATLDQ,No
+AMY1134,Transcriptional regulatory protein SAP30,Untitled,SCNNNN,No
+AMY1135,TAR DNA-binding protein 43,Untitled,SCPSGN,No
+AMY1136,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SDKKEE,No
+AMY1137,Major curlin subunit precursor,Untitled,SDLTIT,No
+AMY1138,RNA-binding protein FUS,Untitled,SDNNTI,No
+AMY1139,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SDSNQG,No
+AMY1140,Major curlin subunit precursor,Untitled,SELNIY,Yes
+AMY1141,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SELPKV,No
+AMY1142,Major curlin subunit precursor,Untitled,SEMTVK,No
+AMY1143,Unconventional myosin-XV,Untitled,SFFFIQ,Yes
+AMY1144,Major prion protein precursor,Untitled,SFLIFL,Yes
+AMY1145,Cystatin-C precursor,Untitled,SFQIYA,Yes
+AMY1146,TAR DNA-binding protein 43,Untitled,SGAAIG,No
+AMY1147,Superoxide dismutase [Cu-Zn],Untitled,SGDHCI,No
+AMY1148,TAR DNA-binding protein 43,Untitled,SGFGNS,No
+AMY1149,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SGIKLA,No
+AMY1150,TAR DNA-binding protein 43,Untitled,SGSGFN,No
+AMY1151,TAR DNA-binding protein 43,Untitled,SGSNSG,No
+AMY1152,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SGYQQG,No
+AMY1153,De novo,Untitled,SHVIIE,No
+AMY1154,Major curlin subunit precursor,Untitled,SIDLTQ,No
+AMY1155,Superoxide dismutase [Cu-Zn],Untitled,SIEDSV,No
+AMY1156,TAR DNA-binding protein 43,Untitled,SINPAM,No
+AMY1157,De novo,Untitled,SKVIIE,No
+AMY1158,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SLNDFQ,No
+AMY1159,Superoxide dismutase [Cu-Zn],Untitled,SLSGDH,No
+AMY1160,Major prion protein precursor,Untitled,SMVLFS,Yes
+AMY1161,TAR DNA-binding protein 43,Untitled,SNAGSG,No
+AMY1162,Agglutinin-like protein 1 precursor,Untitled,SNGIVI,No
+AMY1163,TAR DNA-binding protein 43,Untitled,SNMGGG,No
+AMY1164,De novo,Untitled,SNNFGA,No
+AMY1165,Transcriptional activator/repressor MOT3,Untitled,SNNSNI,No
+AMY1166,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SNQGNN,No
+AMY1167,Major prion protein precursor,Untitled,SNQNNF,Yes
+AMY1168,TAR DNA-binding protein 43,Untitled,SNSGAA,No
+AMY1169,General transcriptional corepressor CYC8,Untitled,SNTNNT,No
+AMY1170,YLP motif-containing protein 1,Untitled,SQFYIT,Yes
+AMY1171,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SQGMSL,No
+AMY1172,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SQNGNQ,No
+AMY1173,TAR DNA-binding protein 43,Untitled,SQQNQS,No
+AMY1174,TAR DNA-binding protein 43,Untitled,SRQNQS,No
+AMY1175,De novo,Untitled,SRVIIE,No
+AMY1176,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SSGIKL,No
+AMY1177,Major curlin subunit precursor,Untitled,SSIDLT,No
+AMY1178,Islet amyloid polypeptide precursor,Untitled,SSNNFG,Yes
+AMY1179,Transcription factor RLM1,Untitled,SSNNNS,No
+AMY1180,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,SSSGIK,No
+AMY1181,Islet amyloid polypeptide precursor,Untitled,SSTNVG,Yes
+AMY1182,Ribonuclease pancreatic precursor,Untitled,SSTSAA,Yes
+AMY1183,Major curlin subunit precursor,Untitled,SSVNVT,No
+AMY1184,TAR DNA-binding protein 43,Untitled,SSWGMM,No
+AMY1185,RNA-binding protein FUS,Untitled,SSYSSY,No
+AMY1186,De novo,Untitled,STADWE,No
+AMY1187,De novo,Untitled,STFIFE,Yes
+AMY1188,De novo,Untitled,STFLIE,Yes
+AMY1189,De novo,Untitled,STFTFE,Yes
+AMY1190,De novo,Untitled,STFTIE,No
+AMY1191,De novo,Untitled,STHIIE,No
+AMY1192,De novo,Untitled,STKIIE,No
+AMY1193,De novo,Untitled,STLIFE,No
+AMY1194,De novo,Untitled,STLIYE,No
+AMY1195,De novo,Untitled,STLLIE,No
+AMY1196,De novo,Untitled,STLLYE,No
+AMY1197,De novo,Untitled,STLTFE,No
+AMY1198,De novo,Untitled,STLTIE,No
+AMY1199,De novo,Untitled,STMSIT,Yes
+AMY1200,De novo,Untitled,STNIFE,No
+AMY1201,De novo,Untitled,STNIYE,No
+AMY1202,Transcription factor RLM1,Untitled,STNNTN,No
+AMY1203,Nucleoporin NSP1,Untitled,STNSNT,No
+AMY1204,De novo,Untitled,STNTFE,No
+AMY1205,De novo,Untitled,STNTIE,No
+AMY1206,De novo,Untitled,STQIFE,No
+AMY1207,De novo,Untitled,STQIYE,No
+AMY1208,De novo,Untitled,STRIIE,No
+AMY1209,Flocculin,Untitled,STTVVT,No
+AMY1210,De novo,Untitled,STVHIE,No
+AMY1211,De novo,Untitled,STVIHE,No
+AMY1212,De novo,Untitled,STVIIG,Yes
+AMY1213,De novo,Untitled,STVIIH,No
+AMY1214,De novo,Untitled,STVIIK,No
+AMY1215,De novo,Untitled,STVIIR,No
+AMY1216,De novo,Untitled,STVIKE,No
+AMY1217,De novo,Untitled,STVIKT,No
+AMY1218,De novo,Untitled,STVIRE,No
+AMY1219,De novo,Untitled,STVKIE,No
+AMY1220,De novo,Untitled,STVRIE,No
+AMY1221,De novo,Untitled,STVTFE,No
+AMY1222,De novo,Untitled,STWIFE,Yes
+AMY1223,De novo,Untitled,STWIIE,Yes
+AMY1224,De novo,Untitled,STWIYE,Yes
+AMY1225,De novo,Untitled,STWLIE,Yes
+AMY1226,De novo,Untitled,STWTFE,No
+AMY1227,De novo,Untitled,STWTIE,No
+AMY1228,Superoxide dismutase [Cu-Zn],Untitled,SVISLS,No
+AMY1229,Major curlin subunit precursor,Untitled,SVNVTQ,No
+AMY1230,TAR DNA-binding protein 43,Untitled,SWGMMG,No
+AMY1231,von Willebrand factor precursor,Untitled,SYLCDL,No
+AMY1232,von Willebrand factor precursor,Untitled,SYLYDL,No
+AMY1233,RNA-binding protein MRN1,Untitled,SYNNNN,No
+AMY1234,TAR DNA-binding protein 43,Untitled,SYSGSN,No
+AMY1235,Ribonuclease pancreatic precursor,Untitled,SYSTMS,Yes
+AMY1236,Coagulation factor XI precursor,Untitled,TAAHCF,No
+AMY1237,De novo,Untitled,TAELIT,No
+AMY1238,Coagulation factor XI precursor,Untitled,TAVHCF,No
+AMY1239,Cell wall adhesin EAP1 precursor,Untitled,TAVTTG,No
+AMY1240,De novo,Untitled,TAWYAE,No
+AMY1241,Flocculation protein FLO1 precursor,Untitled,TDETVI,No
+AMY1242,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,TEEKKE,No
+AMY1243,De novo,Untitled,TFQINS,Yes
+AMY1244,TAR DNA-binding protein 43,Untitled,TFSINP,No
+AMY1245,De novo,Untitled,TFWEIS,No
+AMY1246,Cell wall adhesin EAP1 precursor,Untitled,TGVTII,No
+AMY1247,Hyphal wall protein 1,Untitled,TGVVVV,No
+AMY1248,Cell wall adhesin EAP1 precursor,Untitled,TIITVT,Yes
+AMY1249,Major curlin subunit precursor,Untitled,TITQHG,No
+AMY1250,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,TKEPTR,No
+AMY1251,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,TKKVDT,No
+AMY1252,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,TKPAES,No
+AMY1253,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,TKVEEP,No
+AMY1254,Major curlin subunit precursor,Untitled,TLDQWN,No
+AMY1255,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,TLKLVS,No
+AMY1256,De novo,Untitled,TLKNYI,No
+AMY1257,De novo,Untitled,TNELYM,No
+AMY1258,SWI/SNF chromatin-remodeling complex subunit SWI1,Untitled,TNNNTN,No
+AMY1259,Major curlin subunit precursor,Untitled,TQHGGG,No
+AMY1260,Major curlin subunit precursor,Untitled,TQRGFG,No
+AMY1261,Major curlin subunit precursor,Untitled,TQVGFG,No
+AMY1262,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,TREPTK,No
+AMY1263,mRNA-binding protein PUF2,Untitled,TRNNTV,No
+AMY1264,Cell wall adhesin EAP1 precursor,Untitled,TTGVTI,No
+AMY1265,Hyphal wall protein 1,Untitled,TTGVVV,No
+AMY1266,Flocculin,Untitled,TTVVST,No
+AMY1267,Flocculin,Untitled,TTVVTT,No
+AMY1268,von Willebrand factor precursor,Untitled,TVFHIG,No
+AMY1269,von Willebrand factor precursor,Untitled,TVFPIG,No
+AMY1270,Flocculation protein FLO1 precursor,Untitled,TVIVIR,No
+AMY1271,Major curlin subunit precursor,Untitled,TVKQFG,No
+AMY1272,Flocculin,Untitled,TVVSTT,No
+AMY1273,De novo,Untitled,TYQIIR,No
+AMY1274,Phosphatidylinositol 3-kinase regulatory subunit alpha,Untitled,TYVEYI,Yes
+AMY1275,De novo,Untitled,VAFNIT,Yes
+AMY1276,Transthyretin precursor,Untitled,VAMHVF,No
+AMY1277,De novo,Untitled,VANFIT,Yes
+AMY1278,Transcriptional activator/repressor MOT3,Untitled,VANNST,No
+AMY1279,Agglutinin-like protein 1 precursor,Untitled,VATTRT,No
+AMY1280,Transthyretin precursor,Untitled,VAVHVF,Yes
+AMY1281,De novo,Untitled,VAWLKM,No
+AMY1282,Major curlin subunit precursor,Untitled,VDQTAS,No
+AMY1283,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,VDTKPA,No
+AMY1284,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,VEDLKI,No
+AMY1285,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,VEEPVK,No
+AMY1286,Otoferlin,Untitled,VFFINQ,No
+AMY1287,ATP-binding cassette sub-family A member 12,Untitled,VFFNNT,Yes
+AMY1288,Major curlin subunit precursor,Untitled,VGFGNN,No
+AMY1289,Major curlin subunit precursor,Untitled,VGQGSD,No
+AMY1290,Transcriptional activator/repressor MOT3,Untitled,VHNNSN,No
+AMY1291,Superoxide dismutase [Cu-Zn],Untitled,VIGIAQ,Yes
+AMY1292,Major prion protein precursor,Untitled,VILLIS,Yes
+AMY1293,Superoxide dismutase [Cu-Zn],Untitled,VISLSG,No
+AMY1294,Agglutinin-like protein 1 precursor,Untitled,VIVATT,Yes
+AMY1295,Flocculation protein FLO1 precursor,Untitled,VIVIRT,No
+AMY1296,Superoxide dismutase [Cu-Zn],Untitled,VIWIAQ,No
+AMY1297,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,VKKEEK,No
+AMY1298,Major curlin subunit precursor,Untitled,VKQFGG,No
+AMY1299,SWI/SNF chromatin-remodeling complex subunit SWI1,Untitled,VNNNNI,No
+AMY1300,Transcriptional regulator URE2,Untitled,VNNNNN,No
+AMY1301,Major curlin subunit precursor,Untitled,VNVTQV,Yes
+AMY1302,Low-density lipoprotein receptor precursor,Untitled,VNWCER,No
+AMY1303,Low-density lipoprotein receptor precursor,Untitled,VNWYER,No
+AMY1304,Superoxide dismutase [Cu-Zn],Untitled,VPGIAQ,No
+AMY1305,Major curlin subunit precursor,Untitled,VPQYGG,No
+AMY1306,Inner nuclear membrane protein Man1,Untitled,VQFLQS,Yes
+AMY1307,De novo,Untitled,VQIINK,Yes
+AMY1308,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,VQTEEK,No
+AMY1309,Cold shock protein CspB,Untitled,VSFEIV,Yes
+AMY1310,Superoxide dismutase [Cu-Zn],Untitled,VSIEDS,No
+AMY1311,Transcriptional regulator URE2,Untitled,VSNLSN,No
+AMY1312,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,VSSSGI,No
+AMY1313,Flocculin,Untitled,VSTTVV,Yes
+AMY1314,Cell wall adhesin EAP1 precursor,Untitled,VTIITV,No
+AMY1315,Apolipoprotein A-I precursor,Untitled,VTQEFW,No
+AMY1316,Major curlin subunit precursor,Untitled,VTQVGF,No
+AMY1317,Apolipoprotein A-I precursor,Untitled,VTSTFS,Yes
+AMY1318,Cell wall adhesin EAP1 precursor,Untitled,VTTGVT,No
+AMY1319,Hyphal wall protein 1,Untitled,VTTGVV,No
+AMY1320,Flocculin,Untitled,VTTVVS,No
+AMY1321,Major curlin subunit precursor,Untitled,VVPQYG,No
+AMY1322,Flocculin,Untitled,VVSTTV,Yes
+AMY1323,Hyphal wall protein 1,Untitled,VVTSEE,No
+AMY1324,Hyphal wall protein 1,Untitled,VVVTSE,No
+AMY1325,Hyphal wall protein 1,Untitled,VVVVTS,No
+AMY1326,Alpha-galactosidase A precursor,Untitled,VYSCEW,No
+AMY1327,Alpha-galactosidase A precursor,Untitled,VYSWEW,No
+AMY1328,TAR DNA-binding protein 43,Untitled,WGMMGM,No
+AMY1329,TAR DNA-binding protein 43,Untitled,WGSASN,No
+AMY1330,Relaxin receptor 2,Untitled,WIVIFF,Yes
+AMY1331,Chitotriosidase-1 precursor,Untitled,WNFGTQ,No
+AMY1332,Chitotriosidase-1 precursor,Untitled,WNFSTQ,No
+AMY1333,Low-density lipoprotein receptor precursor,Untitled,WPNGIT,No
+AMY1334,Low-density lipoprotein receptor precursor,Untitled,WPNVIT,Yes
+AMY1335,Kv channel-interacting protein 1,Untitled,WTFNLY,Yes
+AMY1336,De novo,Untitled,WVENYP,No
+AMY1337,Aquaporin-2,Untitled,WVFWIG,Yes
+AMY1338,De novo,Untitled,WYFYIQ,No
+AMY1339,De novo,Untitled,YAELIV,Yes
+AMY1340,De novo,Untitled,YASEIE,No
+AMY1341,Transcriptional regulatory protein SAP30,Untitled,YASNNN,No
+AMY1342,Major curlin subunit precursor,Untitled,YGGGGN,No
+AMY1343,Major curlin subunit precursor,Untitled,YGGGNS,No
+AMY1344,RNA-binding protein FUS,Untitled,YGQQNQ,No
+AMY1345,RNA-binding protein FUS,Untitled,YGQQQS,No
+AMY1346,RNA-binding protein FUS,Untitled,YGQQSY,No
+AMY1347,RNA-binding protein FUS,Untitled,YGQSSY,No
+AMY1348,Protein unc-13 homolog B,Untitled,YIFNNC,Yes
+AMY1349,Alpha-mannosidase 2,Untitled,YIFNNM,No
+AMY1350,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YKNFNY,No
+AMY1351,De novo,Untitled,YLEIII,No
+AMY1352,SLIT and NTRK-like protein 5 precursor,Untitled,YLFLQY,Yes
+AMY1353,[PIN+] prion protein RNQ1,Untitled,YLGNNS,No
+AMY1354,Beta-2-microglobulin precursor,Untitled,YLLYYT,Yes
+AMY1355,De novo,Untitled,YLNWYQ,Yes
+AMY1356,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YNAQAQ,No
+AMY1357,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YNNNLQ,No
+AMY1358,Uncharacterized protein YBL081W,Untitled,YNNTGS,No
+AMY1359,[NU+] prion formation protein 1,Untitled,YNNYNN,Yes
+AMY1360,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YNPDAG,No
+AMY1361,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YNPQGG,No
+AMY1362,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YQAGFQ,No
+AMY1363,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YQAYNA,No
+AMY1364,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YQGYQA,No
+AMY1365,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YQGYSG,No
+AMY1366,Origin recognition complex subunit 3,Untitled,YQLIWQ,Yes
+AMY1367,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YQNYQG,No
+AMY1368,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YQQGGY,No
+AMY1369,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YQQQFN,No
+AMY1370,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YQQYNP,No
+AMY1371,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YQQYSQ,No
+AMY1372,Major curlin subunit precursor,Untitled,YQYGGG,No
+AMY1373,TAR DNA-binding protein 43,Untitled,YSGSNS,No
+AMY1374,Eukaryotic peptide chain release factor GTP-binding subunit,Untitled,YSGYQQ,No
+AMY1375,De novo,Untitled,YTFTIS,No
+AMY1376,RNA-binding protein MRN1,Untitled,YTNISN,No
+AMY1377,Phosphatidylinositol 3-kinase regulatory subunit alpha,Untitled,YVEYIG,Yes
+AMY1378,Negative growth regulatory protein NGR1,Untitled,YYNYNN,No
+AMY1379,Bovine Pancreatic Trypsin Inhibitor (BPTI),P45-58,FKSAEDSMRTSGGA,No
+AMY1380,Protein G,ProteinG21-40,GDAATAEKVFKQYANDNGVD,No
+AMY1381,Protein G,ProteinG41-56,GEWTYDDATKTFTVTE,Yes
+AMY1382,ABri,Untitled,EASNCFAIRHFENKFAVETLICSRTVKKNIIEEN,Yes
+AMY1383,Myohemerithrin,A helix,Am-YEQLDEEHKKIFKGIFDCIRD,Yes
+AMY1384,ADan,Untitled,EASNCFAIRHFENKFAVETLICFNLFLNSQEKHY,Yes
+AMY1388,alpha beta crystallin (ABC),Untitled,KVKVLG,Yes
+AMY1389,alpha beta crystallin (ABC),Untitled,GDVIEW,Yes
+AMY1390,Nucleophosmin,Untitled,VEAKFINYVKNCFR,Yes
+AMY1391,Alpha synuclein,70-76,VVTGVTA,Yes
+AMY1392,Alpha synuclein,72-78,TGVTAVA,Yes
+AMY1393,Apolipoprotein A-I (human),N-terminal,LATVYVDVL,Yes
+AMY1394,Apolipoprotein A-I (human),C-terminal,VSFLSA,Yes
+AMY1395,Apolipoprotein A-I (human),N-terminal,VTSTFS,Yes
+AMY1396,Apolipoprotein A-I (human),N-terminal,VTQEFW,Yes
+AMY1397,Amyloid beta A4 peptide,Untitled,YEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV,Yes
+AMY1399,Sup35,7-16,GNNQQNYQQY,Yes
+AMY1400,Sup35,16-26,YSQNGNQQQG,Yes
+AMY1401,Sup35,28-38,RYQGYQAYNA,Yes
+AMY1402,Sup35,43-53,GGYYQNYQGY,Yes
+AMY1403,Sup35,46-56,YQNYQGYSGY,Yes
+AMY1404,Sup35,52-62,YSGYQQGGYQ,Yes
+AMY1405,Sup35,55-65,YQQGGYQQYN,Yes
+AMY1406,Sup35,94-104,PQGGRGNYKN,Yes
+AMY1407,Sup35,103-113,NFNYNNNLQG,Yes
+AMY1408,Sup35,106-116,YNNNLQGYQA,Yes
+AMY1409,Sup35,109-119,NLQGYQAGFQ,Yes
+AMY1410,Sup35,127-137,NDFQKQQKQA,Yes
+AMY1411,Sup35,67-76,AGYQQQYNPQ,No
+AMY1412,Sup35,70-79,QQQYNPQGGY,No
+AMY1413,Sup35,73-82,YNPQGGYQQY,No
+AMY1414,Sup35,76-85,QGGYQQYNPQ,No
+AMY1415,Sup35,79-88,YQQYNPQGGY,No
+AMY1416,Sup35,82-91,YNPQGGYQQQ,No
+AMY1417,Sup35,139-148,KPKKTLKLVS,No
+AMY1418,Sup35,142-151,KTLKLVSSSG,No
+AMY1419,Sup35,145-154,KLVSSSGIKL,No
+AMY1420,Sup35,148-157,SSSGIKLANA,No
+AMY1421,Sup35,151-160,GIKLANATKK,No
+AMY1422,Sup35,154-163,LANATKKVGT,No
+AMY1423,Sup35,157-166,ATKKVGTKPA,No
+AMY1424,Sup35,160-169,KVGTKPAESD,No
+AMY1425,Sup35,163-172,TKPAESDKKE,No
+AMY1426,Sup35,166-175,AESDKKEEEK,No
+AMY1427,Sup35,169-178,DKKEEEKSAE,No
+AMY1428,Sup35,172-181,EEEKSAETKE,No
+AMY1429,Sup35,175-184,KSAETKEPTK,No
+AMY1430,Sup35,178-187,ETKEPTKEPT,No
+AMY1431,Sup35,181-190,EPTKEPTKVE,No
+AMY1432,Sup35,184-193,KEPTKVEEPV,No
+AMY1433,Sup35,187-196,TKVEEPVKKE,No
+AMY1434,Sup35,190-199,EEPVKKEEKP,No
+AMY1435,Sup35,193-202,VKKEEKPVQT,No
+AMY1436,Sup35,196-205,EEKPVQTEEK,No
+AMY1437,Sup35,199-208,PVQTEEKTEE,No
+AMY1438,Sup35,202-211,TEEKTEEKSE,No
+AMY1439,Sup35,205-214,KTEEKSELPK,No
+AMY1440,Sup35,208-217,EKSELPKVED,No
+AMY1441,Sup35,211-220,ELPKVEDLKI,No
+AMY1442,PMEL,Untitled,GQVIWVN,Yes
+AMY1443,PMEL,Untitled,AEVSIVV,Yes
+AMY1444,PMEL,Untitled,LASLIYR,Yes
+AMY1445,Chorion S18,Untitled,DAQAIAL,Yes
+AMY1446,Chorion S36,Untitled,RQGNINIVA,Yes
+AMY1447,Chorion S36,Untitled,VQQNYQA,Yes
+AMY1448,Chorion S36,Untitled,QQEVINK,Yes
+AMY1449,Conidial hydrophobin,Untitled,GLINIAT,Yes
+AMY1450,Hydrophobin,Untitled,FNGLIVV,Yes
+AMY1451,Hydrophobin 1,Untitled,GILNIVV,Yes
+AMY1452,Hydrophobin 1,Untitled,SLLNIVV,Yes
+AMY1453,Hydrophobin 2,Untitled,TAFTILA,Yes
+AMY1454,Hydrophobin 1,Untitled,GVVAIGC,Yes
+AMY1455,Hydrophobin 1,Untitled,NLSLFDQ,Yes
+AMY1456,Hydrophobin 2,Untitled,TVIAFLA,Yes
+AMY1457,Hydrophobin 1,Untitled,YGNLISL,Yes
+AMY1458,Hydrophobin 4,Untitled,EFQEICA,Yes
+AMY1459,Major curlin subunit (csgA),Untitled,AIAAIVF,Yes
+AMY1460,Major curlin subunit (csgA),Untitled,SELNIYQY,Yes
+AMY1461,Major curlin subunit (csgA),Untitled,TLSIYQY,Yes
+AMY1462,Chaplin,Untitled,GNVCIN,Yes
+AMY1463,Chaplin,Untitled,GNTCVN,Yes
+AMY1464,Lysozyme (human),57-61,IFQINS,Yes
+AMY1465,T-Protein (Tau) (mutated),Q7K,VKIVYK,Yes
+AMY1466,T-Protein (Tau) (mutated),C-end-K,VQIVYKK,Yes
+AMY1467,Sup35 (mutated),G7KQ11K,KNNQKNY,Yes
+AMY1468,Lysozyme (human) (mutated),Q58KS61V(C-end-K),IFKINVK,Yes
+AMY1469,Insulin,11-17,LVEALYL,Yes
+AMY1470,Insulin (mutated),V12KE13QY16K,LKQALKL,Yes
+AMY1471,Alpha synuclein (mutated),T75KQ79K,VKAVAK,Yes
+AMY1472,Alpha synuclein (mutated),T72KA76K,VVKGVTK,Yes
+AMY1473,Amyloid beta A4 peptide,27-32,NKGAII,Yes
+AMY1474,Amyloid beta A4 peptide (mutated),I32K,NKGAIK,No
+AMY1475,Amyloid beta A4 peptide (mutated),N27II32K,IKGAIK,Yes
+AMY1476,Amyloid beta A4 peptide,16-21,KLVFFA,Yes
+AMY1477,Amyloid beta A4 peptide (mutated),C-end-K,KLVFFAK,Yes
+AMY1478,Alpha synuclein (mutated),A76KQ79K,VTKVAK,No
+AMY1479,Alpha synuclein (mutated),V71KA76K,VKTGVTK,No
+AMY1480,T-Protein (Tau) (mutated),VIBA2,KKKVQIVYK,Yes
+AMY1481,Amyloid beta A4 peptide (mutated),VIBA4,RLVFFAR,Yes
+AMY1482,Amyloid beta A4 peptide (mutated),VIBA5,RLVFFAK,Yes
+AMY1483,Alpha synuclein (mutated),VIBA6,LKQALKL,Yes
+AMY1484,Cystatin-C precursor,Cystatin C (47-51),LQVVR,Yes
+AMY1485,Cystatin-C precursor,Cystatin C (56-65),IVAGVNYFLD,Yes
+AMY1486,Cystatin-C precursor,Cystatin C (95-104),AFASFQIYAV,Yes
+AMY1487,Amylin (Islet amyloid polypeptide),Amylin (8-16),ATQRLANFL,Yes
