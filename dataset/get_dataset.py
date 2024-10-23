@@ -3,10 +3,13 @@ import numpy as np
 import torch
 from Bio.PDB import PDBParser,PDBIO
 import requests
+from numpy.distutils.conv_template import header
+
 from common.Preprocess_AAIndexdata import extract_node_feature
 from torch_geometric.utils.undirected import to_undirected
 from torch_geometric.data import Data
 from pathlib import Path
+import subprocess
 
 def Elu_dist(coord_1,coord_2):
     return np.sqrt(sum((coord_1 - coord_2) ** 2))
@@ -14,6 +17,19 @@ def Elu_dist(coord_1,coord_2):
 def Cosine_dist(coords_1,coords_2):
     cosine_dist = np.dot(coords_1, coords_2) / (np.sqrt(sum((coords_1) ** 2)) * np.sqrt(sum((coords_2) ** 2)))
     return cosine_dist
+
+def to_fasta(sequence_id,sequence,save_file):
+    fasta_content = f">{sequence_id}\n{sequence}\n"
+    with open(f"{save_file}", "w") as fasta_file:
+        fasta_file.write(fasta_content)
+
+def run_ifeature(input_file, output_file):
+    command = f"python ../iFeature/iFeature.py --file {input_file} --type DPC --out {output_file}"
+    process = subprocess.run(command, shell=True, capture_output=True, text=True)
+
+    print("Standard Output:", process.stdout)
+    print("Standard Error:", process.stderr)
+
 
 def generate_dataset(peptide_path, save_path, buffer_path, shortest_length):
     peptide_data = pd.read_csv(peptide_path,header = [0],delimiter = ',',encoding = 'utf-8')
@@ -26,11 +42,12 @@ def generate_dataset(peptide_path, save_path, buffer_path, shortest_length):
     feature_df = pd.read_excel('../data\\Amyloid_Database\\AAIndex_data.xlsx',header = [0])
     feature_list = extract_node_feature(feature_df)
 
-    Dpc = pd.read_csv(r"../data/Amyloid_Database/Feature/aggregating_peptides_DPC_feature.csv", header=[0],
-                      delimiter=',')
-    Dpc.rename(columns={'Unnamed: 0': 'Entry'}, inplace=True)
+    # Dpc = pd.read_csv(r"../data/Amyloid_Database/Feature/aggregating_peptides_DPC_feature.csv", header=[0],
+    #                   delimiter=',')
+    # Dpc.rename(columns={'Unnamed: 0': 'Entry'}, inplace=True)
 
     for i in range(0,len(peptide_data['Peptide'])):
+    #for i in range(1):
         pdb_parser = PDBParser(QUIET=True)
         pdb_path = Path(f"{buffer_path}/PDB_{sequence[i]}.pdb")
 
@@ -58,7 +75,7 @@ def generate_dataset(peptide_path, save_path, buffer_path, shortest_length):
         elu_list = []
         cosine_list = []
         edge_source, edge_target = [], []
-        fd , dpc_list=[], []
+        fd , dpc_list = [], []
         amino_list, feature = [], []
 
         # 获取肽链的开始位置和结束位置
@@ -103,17 +120,49 @@ def generate_dataset(peptide_path, save_path, buffer_path, shortest_length):
             fd[j].append(coord_list[j][1])
             fd[j].append(coord_list[j][2])
 
+        fasta_path = Path(f"{buffer_path}/fasta/Fasta_{sequence[i]}.txt")
+        dpc_path = Path(f"{buffer_path}/eat/DPC_{sequence[i]}.csv")
+        if not fasta_path.is_file():
+            to_fasta('peptide', sequence[i], fasta_path.as_posix())
+            run_ifeature(fasta_path.as_posix(), dpc_path.as_posix())
+
+        dpc_df = pd.read_csv(dpc_path.as_posix(),sep='\t',index_col=False)
+        # print(dpc_df)
+
+        non_zero_columns = dpc_df.loc[:, (dpc_df != 0).any(axis=0)].columns
+        non_zero_columns = non_zero_columns[1:]
+
+        # for j in range(len(edge_source)):
+        #     aa1 = sequence[i][(np.round(edge_source[j]))]
+        #     aa2 = sequence[i][(np.round(edge_target[j]))]
+        #     index_name = aa1 + aa2
+        #     dpc_list.append(dpc_df[index_name])
+
         for j in range(len(edge_source)):
             aa1 = sequence[i][(np.round(edge_source[j]))]
             aa2 = sequence[i][(np.round(edge_target[j]))]
-            index_name = 'DPC_' + aa1 + aa2
-            dpc_list.append(Dpc[index_name][i])
+            index_name = aa1 + aa2
+            dpc_list.append(1)
+
+        # for u in range(len(non_zero_columns)):
+        #     na = amino_list.index(non_zero_columns[u][0])
+        #     nb = amino_list.index(non_zero_columns[u][1])
+        #     exists = (na, nb) in zip(edge_source, edge_target)
+        #
+        #     if not exists:
+        #         edge_source.extend([na,nb])
+        #         edge_target.extend([nb,na])
+        #         dpc_list.extend([dpc_df[non_zero_columns[u]],dpc_df[non_zero_columns[u]]])
 
         eat = torch.tensor(dpc_list)
         x = torch.tensor(np.array(fd, dtype=float), dtype=torch.float)
         edge_index = torch.stack([torch.tensor(edge_source),torch.tensor(edge_target)])
         edge_index_torch = to_undirected(edge_index)
         y = torch.tensor(np.array(y_labels[i]), dtype=torch.long)
+
+        print(edge_index_torch.shape)
+        print(eat.shape)
+        assert edge_index_torch.size(1) == len(eat), "边长度不一致"
 
         peptide_graph = Data(x=x, edge_index=edge_index_torch, edge_attr=eat, y=y)
         graph_dataset.append(peptide_graph)
@@ -124,7 +173,7 @@ def generate_dataset(peptide_path, save_path, buffer_path, shortest_length):
 
 if __name__ == '__main__':
 
-    graph_dataset0 = generate_dataset('../data/test_raw.csv','../data/processed_dataset/test_dataset.pkl','../temp/trainset_buffer/',5)
+    graph_dataset0 = generate_dataset('../data/test_raw.csv','../data/processed_dataset/test_dataset_e_with1.pkl','../temp/testset_buffer/',5)
     print(graph_dataset0)
     print(len(graph_dataset0))
 

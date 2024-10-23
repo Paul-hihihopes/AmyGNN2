@@ -47,14 +47,13 @@ def model_test(test_loader):
 if __name__ == '__main__':
     # 模型测试
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-
     # afterpre_peptide_file = r'./data\after_process.csv'
     # pre_aaindex_file = r"./data\AAindex\aaindex1.txt"
     # afterpre_aaindex_file = r'./data\Amyloid_Database\AAIndex_data.xlsx'
     # peptide_pdb_file = r"./data\Amyloid_Database\PDB_Data"
     # AADist_file = r"./data\Amyloid_Database\Feature\new_aggregating_peptide_AADIST_feature.txt"
 
-    test_dataset = torch.load('./data/processed_dataset/test_dataset.pkl')
+    test_dataset = torch.load('./data/processed_dataset/test_dataset_e_with1.pkl')
     # train_size = int(0.7 * len(dataset))
     # val_size = int(0.1 * len(dataset))
     # test_size = len(dataset) - train_size - val_size
@@ -63,11 +62,13 @@ if __name__ == '__main__':
     # val_loader = DataLoader(val_data, batch_size=64, shuffle=True)
     test_data_loader = DataLoader(test_dataset, batch_size=len(test_dataset), shuffle=False)
 
-    model = AMYGNN(input_channels=534, hidden_channels=64)  # 创建模型实例
-    model = torch.load('./trained_models/Threelayers_model.pt')
-
+    model = AMYGNN(input_channels=534, hidden_channels=256)  # 创建模型实例
+    #model.load_state_dict(torch.load('./trained_models/model_newtest.pt'))
+    # model = torch.load('./trained_models/Threelayers_model.pt')
+    model.load_state_dict(torch.load('./trained_models/model_e_with_1_rc_s2_3rc_ep70_bs32.pt'))
     model.eval()
     model.to(device)
     y_score = []
     fprl, tprl = [], []
     fpr, tpr, auroc, acc = model_test(test_data_loader)
+

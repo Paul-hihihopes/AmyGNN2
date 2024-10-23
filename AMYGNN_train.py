@@ -7,8 +7,8 @@ from sklearn.metrics import *
 from tensorboardX import SummaryWriter
 from torch.utils.data import random_split
 from torch_geometric.loader import DataLoader
-
 from model.AmyGNN import AMYGNN
+from torch.optim.lr_scheduler import CosineAnnealingLR
 
 # read_peptide_file = r"./data\Amyloid_Database\CPAD2.0_Data\aggregating_peptides.xlsx"
 # afterpre_peptide_file = r'./data\after_process.csv'
@@ -17,12 +17,12 @@ from model.AmyGNN import AMYGNN
 # peptide_pdb_file = r"./data\Amyloid_Database\PDB_Data"
 # AADist_file = r"./data\Amyloid_Database\Feature\new_aggregating_peptide_AADIST_feature.txt"
 
-dataset = torch.load('./data/processed_dataset/train_dataset.pkl')
+dataset = torch.load('./data/processed_dataset/train_dataset_e_with1.pkl')
 # dataset = peptide_to_graph(pre_aaindex_file,afterpre_aaindex_file,afterpre_peptide_file,AADist_file)
 train_size = int(0.9 * len(dataset))
-val_size = int(0.1 * len(dataset))
+val_size = len(dataset) - train_size
 train_data, val_data = random_split(dataset, [train_size, val_size])
-train_loader = DataLoader(train_data, batch_size=128, shuffle=True)
+train_loader = DataLoader(train_data, batch_size=32, shuffle=True)
 val_loader = DataLoader(val_data, batch_size=64, shuffle=True)
 
 # print(train_data[0],val_data[0],test_data[0])
@@ -33,8 +33,8 @@ val_loader = DataLoader(val_data, batch_size=64, shuffle=True)
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 model = AMYGNN(dataset[0].num_node_features, hidden_channels=256).to(device)
 print(model)
-optimizer = torch.optim.Adam(model.parameters(), lr=0.00001)
-
+optimizer = torch.optim.Adam(model.parameters(), lr=1e-3)
+scheduler = CosineAnnealingLR(optimizer, T_max=70)
 # viz = Visdom()
 # viz.line([0.],[0.], win="train loss", opts=dict(title='train_loss'))
 lossl, loss_l = [], []
@@ -47,7 +47,7 @@ def train():
     log_dir = "./Logs/" + datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
     os.makedirs(log_dir, exist_ok=True)
     writer = SummaryWriter(log_dir=log_dir)
-    for epoch in range(300):
+    for epoch in range(70):
         loss_train, train_correct = 0, 0
         optimizer.zero_grad()
         batch_ind = 0
@@ -68,6 +68,7 @@ def train():
                               epoch * len(train_loader) + batch_ind)
             loss.backward()
             optimizer.step()
+            scheduler.step()
             loss_train += loss.item()
 
         loss_train = loss_train / len(train_loader)
@@ -99,8 +100,8 @@ def train():
             writer.add_scalar('Val/Loss', loss_all, epoch * len(train_loader) + batch_ind)
             writer.add_scalar('Val/Accuracy', val_acc, epoch * len(train_loader) + batch_ind)
 
-        if epoch == 299:
-            torch.save(model.state_dict(), './trained_models/model_nosmo_1.pt')
+        if epoch == 69:
+            torch.save(model.state_dict(), './trained_models/model_e_with_1_rc_s2_3rc_ep70_bs32.pt')
         # print(loss_l)
         # val_acc = correct / len
 
@@ -118,7 +119,8 @@ def train():
         # 在单独的数据集上进行验证
 
         print('Epoch: {:03d}, Train Loss: {:.4f},Val Loss: {:.4f},Train Accuracy : {:.4f},Val Accuracy: {:.4f}'.format(
-            epoch, loss_train, loss_all, train_acc, val_acc))
+            epoch, loss_train, loss_all, train_acc, val_acc)
+        )
         # if epoch % 5 == 0:
         # torch.save(model,'D:\python代码练习\\new_model\\'  + str(epoch) + '_' + str(round(train_acc,4)) + '_' + str(round(val_acc,4)) + '.pt')
         # if acc >= 0.83 and mcc >= 0.66 and val_acc > 0.9:
@@ -127,7 +129,6 @@ def train():
         #     torch.save(model, 'D:\python代码练习\Model\\paper' + '_' + str(epoch) + '_' + str(round(acc_test,5)) + '_' + str(round(mcc_test,5)) + '.pt')
         # print('Epoch: {:03d}, Train Loss: {:.4f},Val Loss: {:.4f},Train Accuracy : {:.4f},Val Accuracy: {:.4f},Test Acuuracy:{:.4f},Test MCC:{:.4f},Test F1score:{:.4f}'.format(epoch,loss_train,loss_all,train_acc, val_acc,acc,mcc,f1))
         writer.close()
-
 
 # train()
 torch.cuda.empty_cache()
